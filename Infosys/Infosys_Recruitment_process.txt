@@ -1,0 +1,33 @@
+Infosys's salary:
+    - System Engineer yearly:
+        - Low: ₹ 1,62,000
+        - Average:  ₹ 3,62,743
+        - High: ₹ 6,41,000
+    
+    - Lead Consultant yearly:
+        - Low: ₹ 9,80,000
+        - Average:  ₹ 19,68,843
+        - High: ₹ 25,00,000
+    
+    - Senior System Engineer yearly:
+        - Low: ₹ 1,74,000
+        - Average:  ₹ 4,06,904
+        - High: ₹ 7,34,000
+    
+    - Test Engineer yearly:
+        - Low: ₹ 1,22,000
+        - Average:  ₹ 4,32,242
+        - High: ₹ 9,31,000
+    
+    - Technology Lead yearly:
+        - Low: ₹ 3,62,000
+        - Average:  ₹ 10,89,897
+        - High: ₹ 22,02,000
+    
+    - Senior Software Engineer yearly:
+        - Low: ₹ 97,000
+        - Average:  ₹ 6,01,865
+        - High: ₹ 16,25,000
+    
+Infosys's request for proposal:
+Infosys's process and time:

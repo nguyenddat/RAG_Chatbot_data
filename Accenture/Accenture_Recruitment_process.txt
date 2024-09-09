@@ -1,0 +1,29 @@
+Accenture's salary:
+    - Indeed:
+        + Senior Systems Analyst:
+            Low: $54,000
+            Average: $107,935
+            Hight: $163,000
+
+        + Managing Director:
+            Low: $158,000
+            Average: $312,480
+            Hight: $487,000
+
+        + Senior Manager:
+            Low: $97,000
+            Average: $191,594
+            Hight: $310,000
+
+        + Management Consultant:
+            Low: $55,000
+            Average: $123,320
+            Hight: $217,000
+
+        + Associate Manager:
+            Low: $63,000
+            Average: $125,172
+            Hight: $190,000
+
+Accenture's request for proposal:
+Accenture's process and time:

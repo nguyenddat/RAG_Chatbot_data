@@ -1,0 +1,49 @@
+Apple's salary:
+    - Indeed:
+        - Software Engineer yearly:
+            Low: $45,000
+            Average: $146,682
+            High: $305,000
+
+        - Logistics Analyst yearly:
+            Low: $50,000
+            Average: $99,335
+            High: $163,000
+
+        - Sales Manager yearly:
+            Low: $66,000
+            Average: $147,934
+            High: $260,000
+
+        - Operations Analyst yearly:
+            Low: $52,000
+            Average: $104,801
+            High: $159,000
+
+        - Information Systems Manager yearly:
+            Low: $91,000
+            Average: $181,381
+            High: $274,000
+
+        - Design Engineer yearly:
+            Low: $87,000
+            Average: $172,391
+            High: $278,000
+
+        - Senior Software Engineer yearly:
+            Low: $79,000
+            Average: $186,318
+            High: $338,000
+
+        - Quality Assurance Engineer yearly:
+            Low: $76,000
+            Average: $150,532
+            High: $230,000
+
+        - Machine Learning Engineer yearly:
+            Low: $57,000
+            Average: $188,954
+            High: $396,000
+
+Apple's request for proposal:
+Apple's process and time:

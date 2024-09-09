@@ -1,0 +1,93 @@
+Jpmorgan Chase & Co.'s type of product:
+    - Consumer & Community Banking
+        - Checking Accounts: Various types of checking accounts for personal and business use.
+        - Savings Accounts: Includes regular savings accounts, high-yield savings, and certificates of deposit (CDs).
+        - Credit Cards: A wide range of credit cards including rewards, cash back, travel, and business cards under the Chase brand.
+        - Mortgages: Home purchase loans, refinancing options, and home equity lines of credit (HELOC).
+        - Auto Loans: Financing options for purchasing new and used vehicles.
+        - Personal Loans: Unsecured loans for various personal needs.
+        - Investment Products: Managed portfolios, mutual funds, retirement accounts (IRAs), and annuities.
+        Online Banking: Mobile and online banking services, including bill pay, mobile check deposit, and budgeting tools.
+
+    - Corporate & Investment Banking
+        - Mergers & Acquisitions (M&A): Advisory services for mergers, acquisitions, and corporate restructuring.
+        - Capital Markets: Services related to equity and debt capital markets, including underwriting and issuance.
+        - Treasury & Securities Services: Cash management, trade finance, and custody services.
+        - Commercial Banking: Lending, treasury services, and credit solutions for small, mid-sized, and large businesses.
+        - Investment Banking: Advisory services for capital raising, risk management, and financial strategies.
+        - Securities Lending: Providing liquidity and financing through securities lending and borrowing.
+
+    - Asset & Wealth Management
+        - Private Banking: Customized banking services for high-net-worth individuals and families, including lending, investment management, and financial planning.
+        - Wealth Management: Services that include investment advice, retirement planning, and trust and estate planning.
+        - Asset Management: Managing investments for institutions, including pension funds, endowments, and sovereign wealth funds.
+        - Mutual Funds & ETFs: Offering a variety of mutual funds and exchange-traded funds (ETFs) under the JPMorgan brand.
+        - Alternative Investments: Hedge funds, private equity, and real estate investment opportunities.
+
+    - Commercial Banking
+        - Business Loans & Lines of Credit: Lending solutions for small and medium-sized enterprises (SMEs).
+        - Commercial Real Estate Financing: Loans and financing for real estate projects, including construction and acquisition.
+        - Equipment Financing: Loans and leases for purchasing business equipment.
+        - Merchant Services: Payment processing solutions for businesses, including point-of-sale (POS) systems and e-commerce solutions.
+
+    - Digital Services
+        - Chase Mobile App: A comprehensive mobile banking app for account management, money transfers, bill payments, and more.
+        - Online Trading: Platforms for trading stocks, bonds, options, and other securities through J.P. Morgan's Self-Directed Investing.
+
+    - Risk Management & Insurance
+        - Risk Management: Hedging and risk management services, including derivatives and structured products.
+        - Insurance Products: Life insurance, property and casualty insurance, and other financial protection products offered through affiliates.
+        - JPMorgan Chase & Co. also engages in various other financial services, such as providing research and insights, sponsoring investment conferences, and participating in global financial markets.
+
+Jpmorgan Chase & Co.'s industry: financial services
+
+Jpmorgan Chase & Co.'s reason for industry:
+
+Jpmorgan Chase & Co.'s potential customer:
+    - We serve millions of customers, predominantly in the U.S., and many of the world's most prominent corporate, institutional and government clients globally.
+
+Jpmorgan Chase & Co.'s success projects:
+    - Chase Sapphire Reserve Credit Card
+        - Launch: 2016
+        - Success: The Chase Sapphire Reserve credit card became one of the most successful credit card launches in history, particularly in the premium travel rewards market. Within the first year, the card attracted over 1 million new customers, which was double the expected number.
+        - Impact: The card's success significantly boosted JPMorgan Chase's credit card market share, especially in the affluent customer segment. The card's appeal was driven by a lucrative sign-up bonus, attractive rewards for travel and dining, and premium perks such as airport lounge access and travel credits.
+        - Statistics: As of 2017, the card generated $4 billion in spend volume in just one quarter. The success of this product also led to a broader expansion of Chase's Sapphire brand, including other products like the Chase Sapphire Preferred card.
+
+    - JPMorgan Chase's Blockchain and Digital Currency Project - JPM Coin
+        - Launch: Announced in 2019
+        - Success: JPM Coin is one of the first blockchain-based digital currencies created by a major U.S. bank. It was designed for use by institutional clients to instantly settle payments between themselves.
+        - Impact: JPM Coin represents a significant step towards the adoption of blockchain technology in traditional finance. The project underscores JPMorgan Chase's leadership in financial innovation, particularly in leveraging distributed ledger technology for improving the efficiency of cross-border transactions.
+        - Statistics: By 2020, JPMorgan Chase reported that its blockchain platform, Onyx, which includes JPM Coin, was processing around $6 trillion worth of transactions daily. The adoption of JPM Coin by major institutional clients demonstrated its potential to transform traditional banking practices and contribute to the future of digital finance.
+
+
+Jpmorgan Chase & Co.'s unique projects:
+    - JPMorgan Chase's Blockchain Platform - Onyx
+        - Launch: 2020
+        - Uniqueness: Onyx is JPMorgan Chase's blockchain-based platform that represents a pioneering effort by a major financial institution to integrate blockchain technology into mainstream banking operations. It is unique in its scale and ambition, focusing on transforming wholesale payments, securities, and other financial transactions.
+        - Key Features:
+            - Liink: A peer-to-peer network built on blockchain that enables secure information sharing between institutions.
+            JPM Coin: A digital currency for settling payments instantly between JPMorgan's institutional clients.
+            - Blockchain-Based Depository Receipts: Facilitates faster and more secure transactions in securities trading.
+            - Impact: Onyx has positioned JPMorgan Chase at the forefront of blockchain innovation in traditional finance, enabling the bank to explore new revenue streams and improve transaction efficiency. It also serves as a foundational platform for future developments in digital currencies and decentralized finance (DeFi).
+
+    - J.P. Morgan In-Residence
+        - Launch: 2016
+        - Uniqueness: The In-Residence program is an incubator designed to support fintech startups by providing them with access to JPMorgan Chase's expertise, infrastructure, and resources. This program is unique because it allows startups to work closely with one of the largest financial institutions in the world while maintaining their independence.
+        - Key Features:
+            - Collaboration with Startups: Startups in the program can refine their products and services through direct feedback and collaboration with JPMorgan Chase's experts.
+            - Access to Resources: Participants gain access to JPMorgan's vast network, technology infrastructure, and potential clients.
+            - No Equity Requirement: Unlike many other incubators, J.P. Morgan In-Residence does not require equity in the participating startups, making it a more attractive option for early-stage companies.
+            - Impact: The program has successfully supported several fintech companies in scaling their operations and integrating into the broader financial ecosystem. It reflects JPMorgan Chase's commitment to fostering innovation in the financial industry and staying ahead of technological trends.
+
+Jpmorgan Chase & Co.'s competitors:
+    - Bank of America (BofA) 
+    - Wells Fargo
+    - Citigroup
+    - Goldman Sachs
+    - Morgan Stanley
+    - HSBC Holdings
+    - Barclays
+
+Jpmorgan Chase & Co.'s future moves:
+    - Sustainable Development Target
+        - We aim to finance and facilitate more than $2.5 trillion over 10 years — from 2021 through the end of 2030 — to help advance long-term climate solutions and contribute to sustainable development. We are targeting $1 trillion toward our Green objective by the end of 2030.

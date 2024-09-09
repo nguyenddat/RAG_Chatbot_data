@@ -1,0 +1,81 @@
+Nokia's type of product:
+    - Mobile Phones:
+        - Feature Phones: Basic phones like the Nokia 105, Nokia 3310 (2017), Nokia 225.
+        - Smartphones:
+            - Nokia G Series: Budget to mid-range smartphones like Nokia G21, Nokia G31.
+            - Nokia X Series: Higher-end smartphones with premium features like Nokia X20, Nokia X10.
+            - Nokia C Series: Entry-level smartphones like Nokia C30, Nokia C21.
+    - Network Infrastructure:
+        - Mobile Network Equipment:
+            - Radio Access Network (RAN): Solutions for 4G LTE and 5G networks.
+            - Core Network: Equipment for managing network traffic and services.
+        - Fixed Network Equipment:
+            - Broadband Access: Fiber and copper-based broadband solutions.
+            - IP Routing: Equipment for internet protocol routing and network management.
+    - Enterprise Solutions:
+        - Private Wireless Networks: Solutions for secure and reliable private LTE and 5G networks.
+        - Cloud and Network Services: Services including cloud infrastructure and network management solutions.
+        - IoT Solutions: Internet of Things devices and platforms for various industrial applications.
+    - Digital Health Solutions:
+        - Health Technology: Devices and solutions for remote health monitoring and telemedicine (historically, Nokia Health was a part of this, now integrated into Withings).
+    - Accessories:
+        - Headphones and Earbuds: Accessories such as Nokia True Wireless Earbuds.
+        - Chargers and Cables: Various charging solutions and data cables for Nokia devices.
+        - Phone Cases and Covers: Protective cases and covers for mobile phones.
+    - Services:
+        - Nokia Software: Includes software for network management, analytics, and security.
+        - Consulting and Professional Services: Includes consulting for network deployment and optimization, as well as technical support services.
+
+Nokia's industry: telecommunications
+
+Nokia's reason for industry:
+    - The company has operated in various industries over the past 150 years. It was founded as a pulp mill and had long been associated with rubber and cables, but since the 1990s has focused on large-scale telecommunications infrastructure, technology development, and licensing.
+
+Nokia's potential customer:
+    - Nokia target from various age groups but mostly aim at 19-39 years old to attract the younger generations into buying their products and hence enjoy growth rate sales as a result. Lastly, behavioral variables for Nokia can be defined as a market according to some feature of consumer behaviors towards it.
+
+Nokia's success projects:
+    - Nokia 3310
+        - Introduction: Originally launched in 2000, the Nokia 3310 became one of the most iconic mobile phones of its era.
+        - Success:
+            - Sales: Over 126 million units were sold worldwide, making it one of the best-selling mobile phones of all time.
+            - Longevity: Known for its durability and long battery life, it became a symbol of reliable mobile technology.
+        - Evidence of Success:
+            - Revival: In 2017, Nokia released a modernized version of the 3310, which also received significant attention and was praised for evoking nostalgia while introducing modern features.
+            - Popularity: The original Nokia 3310's reputation for reliability and long battery life contributed to its continued recognition and fan base, reinforcing its status as a highly successful product.
+
+    - Nokia’s 5G Network Equipment
+        - Introduction: Nokia began its push into 5G network technology in the early 2010s, with major advancements and deployments occurring in the late 2010s and early 2020s.
+        - Success:
+            - Market Share: By 2021, Nokia was one of the leading providers of 5G network equipment globally, securing significant contracts with major telecom operators.
+            - Revenue: Nokia’s Networks business saw significant growth driven by 5G, with reported revenue from Network Infrastructure and Cloud and Network Services exceeding €20 billion annually in recent years.
+        - Evidence of Success:
+            - Contracts: Secured major 5G contracts with operators such as Verizon, T-Mobile, and BT, demonstrating strong market confidence and widespread adoption of Nokia’s technology.
+            - Technological Impact: Nokia's 5G technology has been deployed in numerous high-profile networks worldwide, contributing to advancements in mobile connectivity and setting the standard for next-generation telecommunications.
+
+
+Nokia's unique projects:
+    - Nokia Ozo
+        - Introduction: Launched in 2015, Nokia Ozo was a groundbreaking 360-degree virtual reality (VR) camera designed for professional content creators.
+        - Unique Features:
+            - 360-Degree Capture: Equipped with eight synchronized 2K cameras and eight microphones to capture fully immersive VR content.
+            - Real-Time Monitoring: Allowed creators to monitor and preview VR footage in real-time, enhancing the content creation process.
+        - Evidence of Uniqueness:
+            - Industry Impact: Ozo was one of the first VR cameras to offer high-quality spatial audio and video capture, setting a new standard in VR content production.
+            - Use in Professional Settings: Utilized by various film and media companies for creating immersive VR experiences, including content for movies and virtual reality applications.
+            - Status: Although Nokia eventually discontinued the Ozo product line, it remains a significant example of Nokia’s innovation in VR technology.
+
+    - Nokia Lumia 1020
+        - Introduction: Released in July 2013, the Nokia Lumia 1020 was a flagship smartphone known for its exceptional camera technology.
+        - Unique Features:
+            - 41-Megapixel Camera: Featured one of the highest-resolution cameras on a smartphone at the time, with a 41-megapixel PureView sensor.
+            - Optical Image Stabilization (OIS): Combined with advanced imaging algorithms to deliver high-quality photos and videos, even in low-light conditions.
+        - Evidence of Uniqueness:
+            - Photography Awards: Received praise and awards for its camera technology, including recognition from photography communities and tech critics.
+            - Consumer Impact: Set a new benchmark for mobile photography and influenced the development of camera technology in subsequent smartphones.
+
+Nokia's competitors:
+    - Nokia's competitors and similar companies include Telefonica, NEC, ZTE, Ericsson and Huawei.
+
+Nokia's future moves:
+    - Nokia's Technology Strategy 2030 report focuses on building a future network architecture to serve the emerging innovations market. Nokia anticipates a 22%–25% increase in network demand from 2022 through 2030

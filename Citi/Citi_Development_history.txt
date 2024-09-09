@@ -1,0 +1,4 @@
+Citi's year founded: 1812.0
+
+Citi's reason for establishment:
+    - Citibank opened for business in 1812 in New York under its original name City Bank of New York. Since then, Citi has been a major player in some of the world’s most innovative breakthroughs in banking, including popularizing the ATM. Over the last two centuries Citi has worked tirelessly to become one of the world’s leading international banks who develops new ways to make global banking easier.

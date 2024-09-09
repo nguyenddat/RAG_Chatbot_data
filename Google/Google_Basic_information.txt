@@ -1,0 +1,36 @@
+Google's domain: google.com
+Google's size range: 10001+
+Google's current employee estimate: 75109
+Google's total employee estimate: 131349
+Google's locality: mountain view, california, united states
+Google's address:
+    - Google is headquartered in Mountain View, 1600 Amphitheatre Pkwy, United States, and has 98 office locations.
+    - Google is headquartered at 1600 Amphitheatre Pkwy Hq, Mountain View, United States
+    - Google is headquartered at 2300 Traverwood Dr, Ann Arbor, United States
+    - Google is headquartered at 1105 W Peachtree Nw, Atlanta, United States
+    - Google is headquartered at 500 W 2Nd St, Suite 2900, Austin, United States
+    - Google is headquartered at 2930 Pearl St, Boulder, United States
+    - Google is headquartered at 3333 Walnut St, Boulder, United States
+    - Google is headquartered at 355 Main Street, Cambridge, United States
+    - Google is headquartered at 210 Carpenter Ave, Chicago, United States
+    - Google is headquartered at 320 N. Morgan, Suite 600, Chicago, United States
+Google's country: united states
+Google's hotline:
+    - General Google Support:
+        - Website: https://support.google.com/
+        - Phone Number: Google does not typically provide a direct phone number for general support. Instead, they use their Help Center for troubleshooting and customer service.
+
+    - Google Ads Support:
+        - Phone Number: +1-844-245-2553 (available for businesses and advertisers)
+        - Website: Google Ads Help Center
+
+    - Google Workspace (Formerly G Suite) Support:
+        - Phone Number: +1-877-355-5787
+
+    - Google Cloud Support:
+        - Phone Number: Support is generally provided through the Google Cloud Console and may vary by region and support plan.
+
+    -Google Play Store Support:
+        - Phone Number: Google does not offer a direct phone line for Google Play support; inquiries are typically handled through their Help Center.
+
+Google's linkedin url: linkedin.com/company/google

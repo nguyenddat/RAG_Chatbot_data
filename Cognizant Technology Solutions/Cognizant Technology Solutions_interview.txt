@@ -1,0 +1,53 @@
+Cognizant Technology Solutions's interviewer:
+Cognizant Technology Solutions's JDs opening:
+    - Infra Automation Engineer:
+        - Apply link: https://careers.cognizant.com/global-en/jobs/00060480981/infra-automation-engineer/
+    - L2 - Retail Production Support Lead (Bilingual JPN and ENG):
+        - Highly regarded skills experience: 
+            - .Net, SSRS, SSIS
+        - Apply link: https://careers.cognizant.com/global-en/jobs/00060046592/l2-retail-production-support-lead-bilingual-jpn-and-eng/
+    - Sr C/C++ Developer (Onsite):
+        - Highly regarded skills experience:
+            - Linux FreeRTOS QNX Python3 AWS Greengrass Android AOSP Azure Sphere Azure IoT Edge
+        - Apply link: https://careers.cognizant.com/global-en/jobs/00060003561/sr-ccplusplus-developer-onsite/
+
+Cognizant Technology Solutions's company's reviews:
+    - Glassdoor:
+        + Overall: 3.7/5
+        + Recommended to a friend: 72%
+        + Appoved by CEO: 76%
+        + Comp n benefits: 3.4/5
+        + Career opportunities: 3.6/5
+        + Culture n values: 3.6/5
+        + Senior management: 3.3/5
+        + Work/ Life balance: 3.5/5
+        + Diversity n inclusion: 3.8/5
+
+        + Pros:
+            - "work life balance is good and it also depends on the team and project you are working in" (in 7570 reviews)
+            - "'Still there a good work culture but it is not as good as it was in 2019" (in 5451 reviews)
+            - "The work environment was good and the company was very helpful in letting me complete my tasks" (in 2384 reviews)
+            - "working culture and payment system is good (we will get 100% variable every year)" (in 2087 reviews)
+            - "Good benefits and they emphasize on learning that they will reimburse you for any learning you do outside of the company" (in 1780 reviews)
+        
+        + Cons:
+            - "Salary is less for people who stay there for long time with more years of experience" (in 4407 reviews)
+            - "The management is poor as it's a big company and has to manage a lot of things" (in 3147 reviews)
+            - "Bad managers can disrupt your entire profile and you cant do anything to stop it." (in 1526 reviews)
+            - "think they’re paying less compared to the market rate the bonus and salary hike is also limited" (in 1462 reviews)
+            - "No salary hike and rating system is not transparent" (in 1320 reviews)
+
+    - Indeed: 
+        + Overall: 3.9/5
+        + Work/ Life balance: 3.7/5
+        + Comp n benefits: 3.5/5
+        + Job security n Advancement: 3.7/5
+        + Management: 3.4/5
+        + Culture: 3.7/5
+
+        + Based on 16537 reviews:
+            - 4.8k: 5/5
+            - 6.8k: 4/5
+            - 3.4k: 3/5
+            - 838: 2/5
+            - 740: 1/5

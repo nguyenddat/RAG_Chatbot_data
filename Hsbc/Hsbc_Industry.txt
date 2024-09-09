@@ -1,0 +1,149 @@
+Hsbc's type of product:
+    - Personal Banking
+        - Bank Accounts:
+            - HSBC Premier Account: Offers premium banking services, including dedicated relationship management and exclusive benefits.
+            - HSBC Advance Account: Designed for everyday banking with access to various financial tools and services.
+            - HSBC Basic Account: Provides essential banking services with no monthly fees.
+        - Credit Cards:
+            - HSBC Premier Credit Card: Offers premium benefits, rewards, and travel insurance.
+            - HSBC Advance Credit Card: Provides rewards on everyday spending and access to special offers.
+            - HSBC Gold Credit Card: Basic credit card with standard features and rewards.
+        - Loans and Mortgages:
+        - Personal Loans: Unsecured loans for various needs such as home improvements, travel, and more.
+        - Home Loans: Mortgages for purchasing or refinancing homes, including fixed and variable rate options.
+        - Home Equity Loans: Loans based on the equity in your home.
+        - Savings and Investments:
+            - HSBC Savings Accounts: Accounts with competitive interest rates for saving money.
+            - HSBC Fixed Deposits: Time deposits with fixed interest rates for a set term.
+            - Investment Products: Includes mutual funds, bonds, and stock brokerage services.
+        - Insurance:
+            - Life Insurance: Coverage options for life protection and financial security.
+            - Health Insurance: Medical insurance plans for individuals and families.
+            - Travel Insurance: Coverage for travel-related risks and emergencies.
+    - Business Banking
+        - Business Accounts:
+            - HSBC Business Account: Checking accounts designed for managing business finances.
+            - HSBC Business Premier Account: Advanced banking services for larger businesses.
+            - Business Loans and Financing:
+            - Term Loans: Loans with a fixed repayment period for business expansion and capital needs.
+            - Revolving Credit: Flexible credit lines for managing short-term funding requirements.
+            - Trade Finance: Solutions for international trade, including letters of credit and trade guarantees.
+        - Merchant Services:
+            - Payment Processing: Solutions for accepting payments via credit cards, debit cards, and digital wallets.
+            - Point of Sale (POS) Systems: Equipment and software for managing transactions.
+            - Business Insurance:
+            - Property Insurance: Coverage for business premises and assets.
+            - Liability Insurance: Protection against legal claims and liabilities.
+    - Wealth Management and Private Banking
+        - Investment Management:
+            - Portfolio Management: Tailored investment strategies and portfolio management services.
+            - Wealth Planning: Financial planning services, including retirement and estate planning.
+        - Private Banking:
+            - Dedicated Relationship Management: Personalized banking and investment services for high-net-worth individuals.
+            - Custom Financial Solutions: Bespoke solutions for complex financial needs and goals.
+    - Corporate and Institutional Banking
+        - Corporate Financing:
+            - Syndicated Loans: Large loans arranged by multiple lenders for major projects.
+            - Capital Markets: Services related to equity and debt financing, including underwriting and advisory.
+        - Treasury and Cash Management:
+            - Liquidity Management: Solutions for optimizing cash flow and managing liquidity.
+            - Risk Management: Tools and strategies for managing financial risks.
+        - International Banking:
+            - Global Trade Solutions: Services for cross-border trade, including export and import financing.
+            - Foreign Exchange: Currency exchange and hedging services.
+    - Digital Banking
+        - Online and Mobile Banking:
+            - HSBC Online Banking: Access to account management, transfers, and bill payments via the web.
+            - HSBC Mobile Banking App: Features for managing accounts, making payments, and accessing financial services on mobile - devices.
+
+Hsbc's industry: financial services
+
+Hsbc's reason for industry:
+    - HSBC was born from one simple idea – a local bank serving international needs. In March 1865, HSBC opened its doors for business in Hong Kong, helping to finance trade between Europe and Asia.
+
+Hsbc's potential customer:
+    - HSBC's value proposition is providing reliable, innovative, and globally connected financial services, empowering you to navigate your financial world with confidence.
+    - HSBC's target market are individuals and businesses who seeking global financial solutions and personalised banking services.
+
+Hsbc's success projects:
+    - HSBC Premier
+        - Description: HSBC Premier is a premium banking service designed for high-net-worth individuals and provides a comprehensive suite of financial services and personalized support.
+        - Launch Date: HSBC Premier was launched in 1987.
+        - Global Reach: As of 2023, HSBC Premier is available in over 50 countries and territories, making it one of the most widely available premium banking services globally.
+        - Customer Base: HSBC Premier serves millions of clients worldwide, providing a wide range of services including dedicated relationship managers, global account access, and exclusive benefits.
+        - Awards: HSBC Premier has been recognized for its premium service offerings and has received accolades from various financial and customer service awards.
+        - Impact: HSBC Premier represents a significant segment of HSBC’s retail banking business, contributing to the bank’s reputation for high-quality customer service and global financial solutions.
+    - HSBC Global Banking and Markets (GBM)
+        - Description: HSBC Global Banking and Markets provides financial services to corporate, institutional, and government clients, including advisory, financing, and trading solutions.
+        - Revenue: In 2023, HSBC GBM generated over $16 billion in revenue, making it a major contributor to HSBC's overall financial performance.
+        - Market Position: HSBC is one of the leading global banks in the investment banking sector, with a strong presence in major financial markets around the world.
+        - Global Network: HSBC GBM operates in over 20 countries, providing services across all major financial centers.
+        - Awards: HSBC GBM has received multiple industry awards for excellence in areas such as corporate finance, trading, and risk management.
+        - Impact: HSBC GBM is crucial to HSBC’s strategy of providing comprehensive financial services to large-scale clients, significantly contributing to the bank’s global influence and financial stability.
+    - HSBC Digital Banking
+        - Description: HSBC Digital Banking encompasses the bank’s online and mobile banking platforms, offering customers access to a wide range of banking services through digital channels.
+        - Launch Date: HSBC has been evolving its digital banking services over the years, with significant updates in 2015 and 2020.
+        - User Base: As of 2023, HSBC’s digital banking platforms serve millions of users globally, with significant growth in mobile banking app usage.
+        - Mobile App Downloads: The HSBC Mobile Banking app has been downloaded over 10 million times, reflecting its widespread adoption and usage.
+        - Digital Transformation: HSBC invested heavily in digital transformation initiatives, including improving the user experience and integrating advanced security features.
+        - Impact: HSBC Digital Banking represents a key area of growth and customer engagement for the bank, aligning with broader industry trends towards digitalization and enhancing the convenience and accessibility of banking services.
+
+Hsbc's unique projects:
+    - HSBC’s Green and Sustainable Financing Initiatives
+        - Description: HSBC has been a leader in promoting sustainable finance through various green and sustainable financing initiatives aimed at supporting environmental sustainability and addressing climate change.
+        - Unique Features:
+            - Green Bonds: HSBC issues green bonds to fund projects that have positive environmental impacts. These bonds are designed to raise capital specifically for initiatives like renewable energy, energy efficiency, and sustainable transportation.
+            - Sustainable Financing Framework: HSBC developed a Sustainable Financing Framework that outlines how it assesses and categorizes green and sustainable projects. This framework helps ensure that financing aligns with global sustainability standards and goals.
+            - Commitment to Net Zero: HSBC has committed to supporting its clients in transitioning to a net-zero economy by 2050, aligning its own operations with this goal and investing in green and sustainable projects.
+        - Impact:
+            - Global Reach: HSBC’s green and sustainable financing efforts are active worldwide, impacting a broad range of sectors and regions.
+            - Significant Projects: HSBC has participated in financing major green projects, including renewable energy installations and sustainable infrastructure developments.
+            - Recognition: The bank’s efforts in sustainable finance have been recognized with various industry awards and accolades for its commitment to environmental responsibility.
+    - HSBC’s Digital Banking Transformation
+        - Description: HSBC’s digital banking transformation represents a significant shift towards leveraging technology to enhance customer experience and operational efficiency.
+        - Unique Features:
+            - HSBC Fusion: HSBC Fusion is a platform designed to integrate personal and business banking into a single app, catering specifically to entrepreneurs and small business owners. It offers seamless management of both personal and business finances in one place.
+            - AI and Big Data Integration: HSBC uses artificial intelligence (AI) and big data analytics to improve customer service, personalize financial advice, and enhance fraud detection. These technologies are embedded into their digital platforms to offer advanced, predictive insights and real-time support.
+            - Blockchain Technology: HSBC has explored blockchain technology for trade finance and other applications, aiming to streamline transactions and increase transparency. This includes the use of blockchain for issuing and settling trade finance instruments.
+        - Impact:
+            - Customer Experience: HSBC’s digital transformation initiatives have significantly improved the customer experience by providing more convenient, efficient, and secure banking services.
+            - Innovation: The integration of AI, big data, and blockchain reflects HSBC’s commitment to staying at the forefront of financial technology and innovation.
+            - Industry Leadership: HSBC’s advancements in digital banking have positioned it as a leader in the financial industry, setting benchmarks for technology-driven banking solutions.
+
+Hsbc's competitors:
+    - BNP Paribas
+    - Citibank
+    - JP Morgan Chase
+    - Credit Suisse
+    - Bank of America
+    - National Australia Bank
+    - Standard Chartered
+
+Hsbc's future moves:
+    - Focus
+        - To achieve our ambition, we’re prioritising our efforts and investing for the future. We aim to:
+            - Maintain leadership in scale markets
+            - Double-down on international connectivity
+            - Diversify our revenue
+            - Maintain cost discipline and reshape our portfolio
+
+    - Digitise
+        - As people lead increasingly digital lives, we’ll:
+            - Deliver seamless digital customer experiences
+            - Ensure resilience and security
+            - Embrace disruptive technologies and partner with innovators
+            - Automate and simplify at scale
+
+    - Energise
+        - We’re investing in the development of our people. We want to:
+            - Inspire leaders to drive performance and delivery
+            - Unlock our edge to enable success
+            - Deliver a unique and exceptional colleague experience
+            - Prepare our workforce for the future
+
+    - Transition
+        - We want to do more than simply play our part in the transition to a more sustainable world. We’ve committed to:
+            - Support our customers
+            - Embed net zero into the way we operate
+            - Partner for systemic change
+            - Become net zero in our operations and supply chain by 2030, and our financed emissions by 2050

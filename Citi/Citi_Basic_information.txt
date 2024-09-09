@@ -1,0 +1,51 @@
+Citi's domain: citigroup.com
+
+Citi's size range: 10001+
+
+Citi's current employee estimate: 101482
+
+Citi's total employee estimate: 298171
+
+Citi's locality: new york, new york, united states
+
+Citi's address:
+    - Citi is headquartered in New York, 388 Greenwich Street, United States, and has 133 office locations.
+    - United States:
+        - New York: 388 Greenwich Street
+        - New York: 153 East 53rd Street, 16/F, Zone 19
+    - Algeria:
+        - Bab Ezzouar: Immeuble Le Ksar, 34/35 Quartier
+    - Argentina:
+        - Buenos Aires: Bartolome Mitre 502/530
+    - Australia:
+        - Melbourne: Level 16 120 Collins Street
+        - Sydney: Citigroup Centre 2 Park Street
+    - Austria:
+        - Wien: 11-13 Kärntner Ring
+    - Bahrain:
+        - Manama: P.O. Box 548
+    - Bangledesh: 
+        - Chattogram: Anwar Trade Center, Holding number : 1728, Ground floor, Sheikh Mujib Road, Agrabad C/A
+        - Chattogram: Zone Service Complex, Chattogram EPZ , South Halishahar
+
+Citi's country: united states
+
+Citi's hotline:
+    - Global Headquarters:
+        - Address: 388 Greenwich Street, New York, NY 10013, USA
+        - Phone Number: +1 (212) 559-1000
+
+    - Customer Service (U.S.):
+        - General Customer Service: 1-800-950-5114 (24/7)
+        - Credit Card Customer Service: 1-800-347-4934
+        - International Customer Service: +1 (605) 335-2222
+
+    - Citi Corporate and Investment Banking:
+        - Address: 601 Lexington Avenue, New York, NY 10022, USA
+        - Phone Number: +1 (212) 816-6000
+
+    - Website Contact Form:
+        - Contact page: https://online.citi.com/US/ag/contactus
+
+
+Citi's linkedin url: linkedin.com/company/citi

@@ -1,0 +1,75 @@
+Capgemini's leaders:
+    - Aiman Ezzat*
+        - Chief Executive Officer
+    - Fernando Alvarez*
+        - Strategy, Development and Alliances
+    - Jim Bailey*
+        - Americas
+    - Nive Bhagat*
+        - Chief Financial Officer
+    - Jean-Philippe Bol*
+        - Operations Transformation & Industrialization
+    - Anirban Bose*
+        - Financial Services & APAC
+    - Andrea Falleni*
+        - Southern Europe
+    - Cyril Garcia*
+        - Global Sustainability Services & Corporate Responsibility
+    - Franck Greverie*
+        - Portfolio offers, Cloud Infrastructure Services, Insights & Data, Business Services
+    - Anne Lebel*
+        - Chief Human Resources Officer
+    - William Roze*
+        - Capgemini Engineering
+    - Michael Schulte*
+        - Northern Europe
+    - Olivier Sevillia*
+        - Chief Operating Officer
+    - Jerome Simeon*
+        - Global Industries & Ethics
+    - Pascal Brier
+        - Innovation
+    - Karine Brunet
+        - Cloud Infrastructure Services
+    - Inma Casero
+        - Deputy CHRO
+    - Steffen Elsaesser
+        - Transformation
+    - Patrick Ferraris
+        - Sales, Southern Europe
+    - Roshan Gya
+        - Capgemini Invent
+    - Aruna Jayanthi
+        - Latin America and Canada
+    - Olivier Lepick
+        - Group General Secretary
+    - Karine Marchat
+        - Chief Financial Officer, Northern Europe
+    - Paul Margetts
+        - United Kingdom
+    - Rainer Mehl
+        - Strategic Clients
+    - Sarika Naik
+        - Corporate Responsibility
+    - Niraj Parihar
+        - Insights & Data
+    - Maria Pernas
+        - Group General Counsel, Commercial and Contract Management
+    - Oliver Pfeil
+        - Business Services
+    - Olaf Pietschner
+        - Asia-Pacific
+    - Kartik Ramakrishnan
+        - Financial Services, Banking & Capital Markets
+    - Virginie Regis
+        - Marketing and Communications
+    - Shin Tonomura
+        - Deputy CEO, APAC
+    - Erwoan Touche
+        - Delivery and Quality
+    - Volkmar Varnhagen
+        - Operations, Capgemini Engineering
+    - Jeroen Versteeg
+        - Sales
+    - Ashwin Yardi
+        - India

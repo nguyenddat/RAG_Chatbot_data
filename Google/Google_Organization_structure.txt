@@ -1,0 +1,45 @@
+Google's leaders:
+    - Sundar Pichai
+        - CEO, Google & Alphabet
+    - Philipp Schindler
+        - Senior Vice President and Chief Business Officer
+    - Lorraine Twohill
+        - Chief Marketing Officer
+    - Thomas Kurian
+        - CEO of Google Cloud
+    - Kate Brandt
+        - Chief Sustainability Officer
+    - Melonie Parker
+        - Chief Diversity Officer
+    - Lisa Cohen Gevelber
+        - Vice President Marketing, Google Americas Region. Global Managing Director, Grow with Google
+    - Karen Desalvo
+        - Chief Health Officer, Google Health
+    - Jerry Dischler
+        - President, Cloud Applications
+    - Matt Brittin
+        - President, EMEA
+    - Anil Sabharwal
+        - Vice President, Health and Wearables
+    - Kent Walker
+        - President of Global Affairs, Google & Alphabet
+    - Jen Fitzpatrick
+        - SVP, Core Systems & Experiences
+    - Gerald Wight
+        - SVP of Product Management
+    - Catherine Courage
+        - Vice President, Knowledge UX (Search, Maps, Assistant, Commerce)
+    - Rick Osterloh
+        - Senior Vice President, Devices & Services
+    - Sissie Hsiao
+        - Vice President and General Manager, Gemini Experiences and Google Assistant
+    - James Manyika
+        - Senior Vice President, Research, Technology & Society
+    - Sameer Samat
+        - VP and GM, Android Ecosystem
+    - Alison Wagonfeld
+        - Vice President, Marketing & CMO, Google Cloud
+    - Eve Andersson
+        - Senior Director, GM, Products for All
+    - Sagar Kamdar
+        - Vice President of Product Management

@@ -1,0 +1,49 @@
+Cognizant Technology Solutions's salary:
+    - Systems Analyst yearly:
+        - Low: $39,000
+        - Average: $77,861
+        - High: $118,000
+
+    - Director yearly:
+        - Low: $83,000
+        - Average: $170,126
+        - High: $287,000
+
+    - Associate Director yearly:
+        - Low: $80,000
+        - Average: $159,296
+        - High: $249,000
+
+    - Senior Systems Analyst yearly:
+        - Low: $38,000
+        - Average: $76,218
+        - High: $115,000
+
+    - Business Analyst yearly:
+        - Low: $35,000
+        - Average: $72,953
+        - High: $124,000
+
+    - Senior Information Technology Specialist yearly:
+        - Low: $55,000
+        - Average: $108,982
+        - High: $166,000
+
+    - Programmer Analyst yearly:
+        - Low: $27,000
+        - Average: $53,995
+        - High: $86,000
+
+    - Software Engineer yearly:
+        - Low: $34,000
+        - Average: $82,270
+        - High: $151,000
+
+    - Senior Software Engineer yearly:
+        - Low: $58,000
+        - Average: $114,294
+        - High: $189,000
+
+
+Cognizant Technology Solutions's request for proposal:
+Cognizant Technology Solutions's process and time:

@@ -1,0 +1,29 @@
+Google's salary:
+    - Software Engineer yearly
+        - Low: $44,000
+        - Average: $147,892
+        - High: $311,000
+
+    - Director yearly
+        - Low: $140,000
+        - Average: $289,655
+        - High: $491,000
+
+    - Senior Software Engineer yearly
+        - Low: $75,000
+        - Average: $191,113
+        - High: $359,000
+
+    - Product Manager yearly
+        - Low: $57,000
+        - Average: $169,157
+        - High: $340,000
+
+    - Technical Program Manager yearly
+        - Low: $85,000
+        - Average: $175,951
+        - High: $298,000
+
+
+Google's request for proposal:
+Google's process and time:

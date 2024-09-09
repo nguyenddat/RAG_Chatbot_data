@@ -1,0 +1,79 @@
+Accenture's interviewer:
+
+Accenture's JDs opening:
+    - Software Engineer_NodeJS/NestJS:
+        + Highly regarded skills experience:
+            - Tertiary qualification in Software / IT related degree - this could include Computer Science, Electrical Engineering, Mechatronics Engineering and others with the appropriate level of technical experience.
+            - Strong problem-solving, communication, and teamwork skills
+            - Passionate about learning new technologies and delivering high-quality software.
+            - Good communication and collaboration skills
+            - Ability to work independently and in a team environment
+            - Ability to learn new technologies and solve problems quickly.
+        + Apply link: https://www.linkedin.com/jobs/search/?currentJobId=3973758135&keywords=Accenture&origin=JOBS_HOME_SEARCH_BUTTON&refresh=true
+    
+    - Software Engineer _ C# .NET:
+        + Highly regarded skills experience:
+            - Tertiary qualification in Software / IT related degree - this could include Computer Science, Electrical Engineering, Mechatronics Engineering and others with the appropriate level of technical experience.
+            - Strong problem-solving, communication, and teamwork skills
+            - Passionate about learning new technologies and delivering high-quality software.
+            - Good communication and collaboration skills
+            - Ability to work independently and in a team environment
+            - Ability to learn new technologies and solve problems quickly.
+        + Apply link: https://www.linkedin.com/jobs/search/?currentJobId=3957818903&keywords=Accenture&origin=JOBS_HOME_SEARCH_BUTTON&refresh=true
+    
+    - Customer Service Call Center Rep:
+        + Highly regarded skills experience:
+            - Experience working virtual
+            - Experience meeting key metrics including, average call handle times, quality assurance, customer satisfaction scores
+            - Experience working with multiple monitors
+            - Former Transaction Processing Experience
+        + Apply link: https://www.glassdoor.com/Job/accenture-jobs-SRCH_KO0,9.htm
+    
+    - Software Engineer_Java SpringBoot:
+        + Highly regarded skills experience:
+            - Tertiary qualification in Software / IT related degree - this could include Computer Science, Electrical Engineering, Mechatronics Engineering and others with the appropriate level of technical experience.
+            - Strong problem-solving, communication, and teamwork skills
+            - Passionate about learning new technologies and delivering high-quality software.
+            - Good communication and collaboration skills
+            - Ability to work independently and in a team environment
+            - Ability to learn new technologies and solve problems quickly.
+        + Apply link: https://vn.indeed.com/jobs?q=accenture&l=&from=searchOnHP&vjk=119cf74fb764bb66
+
+Accenture's company's reviews:
+    - Glassdoor:
+        + Overall: 3.9/5
+        + Recommended to a friend: 79%
+        + Approve of CEO: 84 %
+        + Career opportunities: 3.8/5
+        + Comp n Benefits: 3.6/5
+        + Culture n Values: 3.9/5
+        + Senior management: 3.5/5
+        + Work/ Life balance: 3.6/5
+
+        + Pros:
+            - "Good salary Good for freshers" (in 306 reviews)
+            - "Good benefits and medpack that's it" (in 182 reviews)
+            - "The management is good and fair" (in 155 reviews)
+            - "Work life balance is good" (in 163 reviews)
+            - "People are great and thats the only pro" (in 161 reviews)
+        + Cons:
+            - "Low salary and overworked." (in 306 reviews)
+            - "No benefits during my time." (in 182 reviews)
+            - "Depends on the project but the one I was assigned there were power trippers and bad management" (in 155 reviews)
+            - "No work life balance here" (in 163 reviews)
+            - "Can be a bit overwhelming at first, i.e, where to go to for what, navigating through all requirements but helpful people everywhere in the company" (in 161 reviews)
+        
+    - Indeed:
+        + Overall: 4/5
+        + Word/ Life balance: 3.7/5
+        + Comp n Benefits: 3.6/5
+        + Job security n Advancement: 3.7/5
+        + Management: 3.5/5
+        + Culture: 3.8/5
+
+        + Based on reviews: 
+            - 34.5%: 5/5
+            - 59.7%: 4/5
+            - 18.3%: 3/5
+            - 4.5%: 2/5
+            - 3.7%: 1/5

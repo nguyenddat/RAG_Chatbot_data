@@ -1,0 +1,38 @@
+Citi's salary:
+    - Vice President yearly:
+        - Low: $62,000
+        - Average: $141,746
+        - High: $253,000
+
+    - Senior Vice President yearly:
+        - Low: $91,000
+        - Average: $188,241
+        - High: $320,000
+
+    - Group Manager yearly:
+        - Low: $92,000
+        - Average: $213,965
+        - High: $384,000
+
+    - Vice President of Compliance yearly:
+        - Low: $82,000
+        - Average: $168,425
+        - High: $285,000
+
+    - Product Analyst yearly:
+        - Low: $25,000
+        - Average: $117,903
+        - High: $279,000
+
+    - Business Analyst yearly:
+        - Low: $26,000
+        - Average: $97,404
+        - High: $213,000
+
+    - Learning and Development Analyst yearly:
+        - Low: $33,000
+        - Average: $67,367
+        - High: $102,000
+
+Citi's request for proposal:
+Citi's process and time:

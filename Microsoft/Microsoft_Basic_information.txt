@@ -1,0 +1,39 @@
+Microsoft's domain: microsoft.com
+Microsoft's size range: 10001+
+Microsoft's current employee estimate: 116196
+Microsoft's total employee estimate: 276983
+Microsoft's locality: redmond, washington, united states
+Microsoft's address:
+    - Microsoft is headquartered in Redmond, One Microsoft Way, United States, and has 221 office locations.
+    - Microsoft is headquartered at One Microsoft Way Hq, Redmond, United States
+    - Microsoft is headquartered at 54 State St 7Th Floor Suite 701, Albany, United States
+    - Microsoft is headquartered at 8000 Avalon Boulevard, Suite 800, Alpharetta, United States
+    - Microsoft is headquartered at 1300 Wilson Blvd 14Th Floor, Arlington, United States
+    - Microsoft is headquartered at 200 17Th St Nw, Atlanta, United States
+    - Microsoft is headquartered at 84 Peachtree St, Atlanta, United States
+    - Microsoft is headquartered at 10900 Stonelake Boulevard, Suite 225, Austin, United States
+    - Microsoft is headquartered at 700 Bellevue Way Ne - 22Nd Floor, Bellevue, United States
+    - Microsoft is headquartered at 2500 Technology Circle, Suite #4, Bentonville, United States
+Microsoft's country: united states
+Microsoft's hotline:
+- Microsoft Customer Service (General Inquiries)
+    - U.S./Canada: 1-800-642-7676
+    - International: Varies by country, check Microsoft's support page for specific numbers.
+- Microsoft Technical Support
+    - U.S./Canada: 1-877-696-7786
+    - International: Check the Microsoft Support Website for your country.
+- Microsoft Sales and Product Inquiries
+    - U.S./Canada: 1-877-696-7786
+- Microsoft Office Support
+    - U.S./Canada: 1-800-865-9408
+- Microsoft Azure Support
+    - U.S./Canada: 1-800-867-1389
+- Xbox Support
+    - U.S./Canada: 1-800-469-9269
+- Surface Devices Support
+    - U.S./Canada: 1-800-642-7676
+- Business and Enterprise Support
+    - U.S./Canada: 1-800-936-4900
+- LinkedIn Customer Service (Owned by Microsoft)
+    - U.S.: 1-650-687-3600
+Microsoft's linkedin url: linkedin.com/company/microsoft

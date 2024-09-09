@@ -1,0 +1,4 @@
+Capgemini's year founded: 1967.0
+
+Capgemini's reason for establishment:
+    - Capgemini was founded by Serge Kampf in 1967 as an enterprise management and data processing company. The company was founded as the Société pour la Gestion de l'Entreprise et le Traitement de l'Information (Sogeti).

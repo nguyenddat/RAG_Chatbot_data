@@ -1,0 +1,5 @@
+Apple's year founded: 1976.0
+
+Apple's reason for establishment:
+    - Apple Computer, Inc. was founded on April 1, 1976, by college dropouts Steve Jobs and Steve Wozniak, who brought to the new company a vision of changing the way people viewed computers.
+    - Jobs and Wozniak wanted to make computers small enough for people to have them in their homes or offices. Simply put, they wanted a computer that was user-friendly.

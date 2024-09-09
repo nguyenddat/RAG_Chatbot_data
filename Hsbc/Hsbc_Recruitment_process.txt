@@ -1,0 +1,33 @@
+Hsbc's salary:
+    - Director yearly:
+        - Low: £41,000
+        - Average: £139,432
+        - High: £295,000
+
+    - Analyst yearly:
+        - Low: £13,000
+        - Average: £46,766
+        - High: £101,000
+
+    - Manager yearly:
+        - Low: £19,000
+        - Average: £62,289
+        - High: £130,000
+
+    - Associate Director yearly:
+        - Low: £34,000
+        - Average: £92,113
+        - High: £178,000
+
+    - Investment Banking Analyst yearly :
+        - Low: £28,000
+        - Average: £59,046
+        - High: £101,000
+
+    - Risk Manager yearly :
+        - Low: £28,000
+        - Average: £78,022
+        - High: £153,000
+
+Hsbc's request for proposal:
+Hsbc's process and time:

@@ -1,0 +1,91 @@
+Oracle's leaders:
+    - Safra A. Catz
+        - Chief Executive Officer, Board Member
+    - Stuart Levey
+        - Executive Vice President and Chief Legal Officer
+    - Maria Smith
+        - Executive Vice President and Chief Accounting Officer
+    - Lawrence J. Ellison
+        - Chairman of the Board and Chief Technology Officer
+    - Jae Evans
+        - Global Chief Information Officer and Executive Vice President
+    - Jon Chorley
+        - Chief Sustainability Officer
+    - Edward Screven
+        - Executive Vice President, Chief Corporate Architect
+    - Mary Ann Davidson
+        - Chief Security Officer
+    - Andrew Mendelsohn
+        - Executive Vice President, Oracle Database Server Technologies Development
+    - Steve Miranda
+        - Executive Vice President, Oracle Applications Development
+    - Doug Kehring
+        - Executive Vice President, Corporate Operations
+    - Clay Magouyrk
+        - Executive Vice President, Oracle Cloud Infrastructure
+    - Juan Loaiza
+        - Executive Vice President, Mission-Critical Database Technologies
+    - Mike Sicilia
+        - Executive Vice President, Oracle Global Industries
+    - Joyce Westerdahl
+        - Executive Vice President, Human Resources
+    - Matt Stirrup
+        - Executive Vice President, Global Business Finance
+    - Colleen Cassity
+        - Global Head of Oracle Social Impact, Executive Director of the Oracle Education Foundation
+    - T.K. Anand
+        - Executive Vice President, Analytics
+    - Evan Goldberg
+        - Executive Vice President, Oracle NetSuite
+    - Mark Hura
+        - Executive Vice President, North America Cloud Infrastructure
+    - Garrett Ilg
+        - Executive Vice President, Japan and Asia Pacific
+    - Rod Johnson
+        - Executive Vice President, Cloud Applications, North America
+    - Juan C. Jones
+        - Executive Vice President, Global Support Renewals
+    - Kim Lynch
+        - Executive Vice President, Government Defense and Intelligence
+    - Jason Maynard
+        - Executive Vice President, Revenue Operations
+    - Maz Songerwala
+        - Senior Vice President, Oracle Applications Service Experience
+    - Jonathan Tikochinsky
+        - Executive Vice President, Oracle Strategic Initiatives Group
+    - Traci Wade
+        - Group Vice President and Global Head of Diversity and Inclusion
+    - Cormac Watters
+        - Executive Vice President, Applications, Europe, Middle East, and Africa
+    - Luiz Meisler
+        - Executive Vice President, Latin America
+    - Gary Miller
+        - Customer Success Officer and Executive Vice President, Oracle Customer Success Services
+    - Richard Smith
+        - Executive Vice President, Technology, Europe, Middle East, and Africa
+    - Jeffrey O. Henley
+        - Vice Chairman of the Board
+    - Ren�e J. James
+        - Board Member
+    - Michael J. Boskin
+        - Board Member
+    - George H. Conrades
+        - Board Member
+    - Rona A. Fairhead
+        - Board Member
+    - Charles Moorman IV
+        - Board Member
+    - Leon E. Panetta
+        - Board Member
+    - William G. Parrett
+        - Board Member
+    - Jeffrey S. Berg
+        - Board Member
+    - Naomi O. Seligman
+        - Board Member
+    - Vishal Sikka
+        - Board Member
+    - Awo Ablo
+        - Board Member
+    - Bruce Chizen
+        - Board Member

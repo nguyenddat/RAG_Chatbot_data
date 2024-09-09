@@ -1,0 +1,33 @@
+Jpmorgan Chase & Co.'s salary:
+    - Software Engineer yearly:
+        - Low: $50,000
+        - Average: $105,897
+        - High: $181,000
+
+    - Market Associate hourly:
+        - Low: $8.00
+        - Average: $16.03
+        - High: $24.15
+
+    - Application Developer yearly:
+        - Low: $42,000
+        - Average: $94,450
+        - High: $166,000
+
+    - Senior Software Engineer yearly:
+        - Low: $62,000
+        - Average: $122,279
+        - High: $194,000
+
+    - Vice President of Engineering yearly:
+        - Low: $75,000
+        - Average: $150,141
+        - High: $227,000
+
+    - Vice President of Information Technology yearly:
+        - Low: $63,000
+        - Average: $137,917
+        - High: $240,000
+
+Jpmorgan Chase & Co.'s request for proposal:
+Jpmorgan Chase & Co.'s process and time:

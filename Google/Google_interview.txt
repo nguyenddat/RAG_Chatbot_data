@@ -1,0 +1,62 @@
+Google's interviewer:
+Google's JDs opening:
+    - Senior Software Engineer, Site Reliability Engineering, Google Cloud:
+        - highly regarded skills experience:
+            - Master's degree in Computer Science or Engineering.
+        - Apply link: https://www.google.com/about/careers/applications/jobs/results/142635460244447942-senior-software-engineer-site-reliability-engineering-google-cloud
+    
+    - Senior Security Engineer, Google Kubernetes Engine
+        - highly regarded skills experience:
+            - Experience in Google Kubernetes Engine.
+        - Apply link: https://www.google.com/about/careers/applications/jobs/results/87018687214559942-senior-security-engineer-google-kubernetes-engine
+    
+    - Camera Software Engineer, Project Starline
+        - highly regarded skills experience:
+            - Master's degree or PhD in Computer Science or related technical fields.
+            - Experience in camera and ISP pipeline.
+            - Experience in on-device system development (e.g., Linux/Android).
+            - Experience in MediaPipe.
+            - Experience with Android camera frameworks.
+            - Experience working with computer vision, augmented reality, Android camera.
+        - Apply link: https://www.google.com/about/careers/applications/jobs/results/121700076086010566-camera-software-engineer-project-starline
+
+Google's company's reviews:
+    - Glassdoor:
+        + Overall: 4.3/5
+        + Recommended to a friend: 84%
+        + Appoved by CEO: 74%
+        + Career opportunities: 4.1/5
+        + Diversity n inclusion: 4.3/5
+        + Comp n benefits: 4.4/5
+        + Culture n values: 4.2/5
+        + Senior management: 3.8/5
+        + Work/ Life balance: 4.2/5
+
+        + Pros:
+            - "My teammates were really great people and did a lot to help me get up and running.'" (in 3446 reviews)
+            - "great benefits and I do believe they build some of the best products out there." (in 2791 reviews)
+            - "It was a great environment and culture that I looked forward to going to every day." (in 2082 reviews)
+            - "In those positions you can have a good work/life balance and just use all the benefits" (in 1898 reviews)
+            - "Would recommend Software Engineering/Development/PM at Google if you want a nice comfy job with perks and good pay." (in 1526 reviews)
+        
+        + Cons:
+            - "Long hours and lots to learn if you are not a learner it might not be the best place" (in 659 reviews)
+            - "bad management and rude to customers" (in 576 reviews)
+            - "People are forced out by bad managers via bad annual reviews and PIP program to get there friends in there." (in 461 - reviews)
+            - "recent layoffs and company culure" (in 405 reviews)
+            - "Too much work and politics" (in 223 reviews)
+
+    - Indeed: 
+        + Overall: 4.3/5
+        + Work/ Life balance: 4.2/5
+        + Comp n benefits: 4.1/5
+        + Job security n Advancement: 3.7/5
+        + Management: 3.9/5
+        + Culture: 4.2/5
+
+        + Based on 5597 reviews:
+            - 3.1k: 5/5
+            - 1.5k: 4/5
+            - 684: 3/5
+            - 168: 2/5
+            - 177: 1/5

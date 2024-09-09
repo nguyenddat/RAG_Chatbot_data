@@ -1,0 +1,42 @@
+Apple's domain: apple.com
+
+Apple's size range: 10001+
+
+Apple's current employee estimate: 90095
+
+Apple's total employee estimate: 179531
+
+Apple's locality: cupertino, california, united states
+
+Apple's address:
+    - Apple is headquartered in Cupertino, One Apple Park Way, United States, and has 42 office locations.
+    - United States:
+        + Cupertino: One Apple Park Way
+        + Austin: 12801 Delcour Dr
+        + Seattle: 601 Union St
+    - Australia:
+        + Sydney: PO Box A2629
+        + Wien: Favoritenstraße 7
+    - Belgium:
+        + Bruxelles: Buro & Design Centre 5F, Heizel Esplanada Heysel, Box 100
+    - Brazil:
+        + São Paulo: Rua Leopoldo Couto de Magalhães Jr., 700, 7th floor
+    - Canada:
+        + Toronto: 120 Bremner Boulevard, Suite 1600
+    - Chile:
+        + Santiago: Cerro El Plomo, nº 5630, Torre 8, Piso 20
+    - China:
+        + Shanghai:	Building 6, Block C, 88 Maji Road, China (Shanghai) Pilot Free Trade Zone
+
+Apple's country: united states
+
+Apple's hotline:
+    - Customer Support Phone Numbers:
+        + United States: 1-800-275-2273 (1-800-MY-APPLE)
+        + Canada: 1-800-263-3394
+        + United Kingdom: 0800 107 6285
+        + Australia: 1300 321 456
+        + India: 000 800 1009009
+    Apple Corporate Headquarters: 1-408-996-1010
+    
+Apple's linkedin url: linkedin.com/company/apple

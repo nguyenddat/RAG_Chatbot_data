@@ -1,0 +1,70 @@
+Microsoft's interviewer:
+Microsoft's highly regarded skills experience:
+
+Microsoft's JDs opening:
+    - Senior Talent Acquisition Manager, Early in Profession:
+        - highly regarded skills experience:
+            - 10+ years talent acquisition experience (e.g., recruiting, sourcing), HR experience, or industry experience related to role
+            - OR Bachelor's Degree in Human Resources, Business, Liberal Arts, Computer Science, Engineering, or related field AND 8+ years talent acquisition experience (e.g., recruiting, sourcing), HR experience, or industry experience related to role.
+            - 2+ years people management experience
+            - Experience working with stakeholders and/or candidates in multiple countries
+            - Ability to operate with autonomy in ambiguous and complex environments on a global scale.
+            - Sound judgement, critical thinking, and a demonstrated inclusive approach with your team, candidates, and key stakeholders.
+        - Apply link: https://jobs.careers.microsoft.com/global/en/job/1755450/Senior-Talent-Acquisition-Manager%2C-Early-in-Profession
+    
+    - Member of Technical Staff - Cloud Engineering Manager:
+        - highly regarded skills experience:
+            - Bachelor's Degree in Computer Science or related technical field AND 10+ years technical engineering experience developing cloud services using Python, TypeScript, C#, C++, or Java
+            - OR Master's Degree in Computer Science or related technical field AND 8+ years technical engineering experience developing cloud services using Python, TypeScript, C#, C++, or Java
+            o OR equivalent experience.
+            - 4+ years people management experience.
+            - Experience with streaming media.
+            - Experience working with AI platforms, frameworks, and APIs. 
+            - Experience building and using cloud platforms (Azure, AWS, GCP).
+            - Proven experience in defining the roadmap, strategy, and go-to-market plans for a cloud service.
+            - Experience building performant scalable services.
+            - Demonstrated written and verbal communication skills with the ability to work closely with cross-functional teams, including product managers, designers, and other engineers. 
+            - Commitment to learning new technologies and staying up to date with industry trends, best practices, and emerging technologies in mobile development and AI. 
+            - Proven ability to collaborate and contribute to a positive, inclusive work environment, fostering knowledge sharing and growth within the team.
+        - Apply link: https://jobs.careers.microsoft.com/global/en/job/1720049/Member-of-Technical-Staff---Cloud-Engineering-Manager
+
+Microsoft's company's reviews:
+    - Glassdoor:
+        + Overall: 4.2/5
+        + Recommended to a friend: 86%
+        + Appoved by CEO: 91%
+        + Career opportunities: 4.0/5
+        + Diversity n inclusion: 4.0/5
+        + Comp n benefits: 3.1/5
+        + Culture n values: 4.2/5
+        + Senior management: 3.8/5
+        + Work/ Life balance: 4.1/5
+
+        + Pros:
+            - "They provide great benefits and you get a lot of exposure if interested in full time corporate role" (in 5271 reviews)
+            - "Work/Life balance is good and entirely up to you make it what you want it to be" (in 4068 reviews)
+            - "Some really great people working in the Inside sales teams and the building is fantastic." (in 3724 reviews)
+            - "Great culture and very rewarding" (in 2421 reviews)
+            - "A lot of the work is driven by individual performance within a team environment and the pay is good." (in 1562 reviews)
+        
+        + Cons:
+            - "Bad managers abound and there is not much remedy for that except for leaving the job." (in 1272 reviews)
+            - "life balance in hardware due to frequent unplanned work travel and evening calls; bloated meetings; some poor management" (in 986 reviews)
+            - "Long hours you have to wait till the last customer leave it’s energy consuming some of the customers are unrespectful" (in 421 reviews)
+            - "Massive layoffs that hurt entire company and caused so many disruptions for all teams and departments." (in 349 reviews)
+            - "Too much politics and exchange of favors rather then meritocracy seriously affect the possibilities to grow and develop inside the company." (in 281 reviews)
+
+    - Indeed: 
+        + Overall: 4.2/5
+        + Work/ Life balance: 3.9/5
+        + Comp n benefits: 4.1/5
+        + Job security n Advancement: 3.5/5
+        + Management: 3.6/5
+        + Culture: 4.0/5
+
+        + Based on 8551 reviews:
+            - 4k: 5/5
+            - 2.8k: 4/5
+            - 1.2k: 3/5
+            - 322: 2/5
+            - 210: 1/5

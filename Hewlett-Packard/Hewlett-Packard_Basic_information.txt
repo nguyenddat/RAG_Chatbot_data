@@ -1,0 +1,41 @@
+Hewlett-Packard's domain: hpe.com
+Hewlett-Packard's size range: 10001+
+Hewlett-Packard's current employee estimate: 127952
+Hewlett-Packard's total employee estimate: 412952
+Hewlett-Packard's locality: palo alto, california, united states
+
+Hewlett-Packard's address:
+    - HP is headquartered in Palo Alto, 1501 Page Mill Rd, United States, and has 105 office locations.
+    - Hewlett - Packard is headquartered at 1501 Page Mill Rd Hq, Palo Alto, United States
+    - Hewlett - Packard is headquartered at 10300 Energy Drive, Spring, United States
+    - Hewlett - Packard is headquartered at Belas Business Park Via A1 - Av. Talatona Torre Luanda, 6� Andar, Sala 10, Talatona, Angola
+    - Hewlett - Packard is headquartered at Piso 7, Vedia 3616, Buenos Aires, Argentina
+    - Hewlett - Packard is headquartered at 353 Burwood Hwy, Forest Hill, Australia
+    - Hewlett - Packard is headquartered at 2A, Mezzanine, 14 Bradford Close, Kotara, Australia
+    - Hewlett - Packard is headquartered at Level 1D/19 Lang Parade, Milton, Australia
+    - Hewlett - Packard is headquartered at 300 Murray Street Mall, Perth, Australia
+    - Hewlett - Packard is headquartered at Building F, Level 5, 1 Homebush Bay Drive
+
+
+Hewlett-Packard's country: united states
+Hewlett-Packard's hotline:
+    - HP Customer Support (General):
+        - Phone Number: For support in the U.S., call 1-800-474-6836.
+        - Website: HP Support
+
+    - HP Business Support:
+        - Phone Number: For HP business products, you can call 1-800-334-5144 (U.S. and Canada).
+        - Website: HP Business Support
+
+    - HP Technical Support (International):
+        - Website: You can find international support numbers by visiting HP’s Global Support and selecting your region or country.
+
+    - HP Printer Support:
+        - Phone Number: For printer support in the U.S., call 1-800-474-6836.
+        - Website: HP Printer Support
+
+    - HP Laptop and Desktop Support:
+        - Phone Number: For laptop and desktop support, call 1-800-HP-INVENT (1-800-474-6836) in the U.S.
+        - Website: HP Laptop and Desktop Support
+
+Hewlett-Packard's linkedin url: linkedin.com/company/hewlett-packard-enterprise

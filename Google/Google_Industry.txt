@@ -1,0 +1,103 @@
+Google's type of product:
+    - Search and Information
+        - Google Search: The flagship search engine for finding information online.
+        - Google Scholar: A search engine for academic research and scholarly articles.
+    - Productivity and Collaboration
+        - Gmail: Email service with advanced features and integration with other Google products.
+        - Google Drive: Cloud storage service that includes file sharing and synchronization.
+        - Google Docs: Online word processing tool.
+        - Google Sheets: Online spreadsheet tool.
+        - Google Slides: Online presentation tool.
+        - Google Calendar: Scheduling and time management tool.
+        - Google Meet: Video conferencing and online meeting platform.
+        - Google Chat: Messaging and collaboration tool for teams.
+    - Cloud and Enterprise Solutions
+        - Google Cloud Platform: Cloud computing services including computing, storage, and data analytics.
+        - Google Workspace: Suite of productivity tools for businesses, including Gmail, Google Drive, and Google Meet.
+        - Google Ads: Online advertising platform for businesses.
+    - Hardware
+        - Pixel Phones: Google’s line of smartphones.
+        - Pixelbook: High-end Chromebook laptops.
+        - Nest Products: Smart home devices, including thermostats, cameras, and smart speakers.
+        - Google Home: Smart speakers with Google Assistant.
+        - Google Nest Hub: Smart displays with voice control.
+    - Entertainment and Media
+        - YouTube: Video sharing and streaming platform.
+        - YouTube Music: Music streaming service.
+        - Google Play Store: Digital distribution service for apps, games, movies, music, and books.
+        - Google Play Books: E-books and audiobooks.
+    - Navigation and Travel
+        - Google Maps: Mapping and navigation service.
+        - Google Earth: Virtual globe and geographic information program.
+        - Google Flights: Flight search and booking tool.
+        - Google Street View: Street-level imagery and navigation.
+    - Development Tools
+        - Android: Mobile operating system for smartphones and tablets.
+        - Flutter: UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+        - Google Analytics: Web analytics service for tracking and reporting website traffic.
+        - Firebase: Mobile and web application development platform.
+    - AI and Machine Learning
+        - Google Assistant: Virtual assistant powered by AI.
+        - Google TensorFlow: Open-source machine learning framework.
+        - Google AI: AI research and development division.
+    - Security and Privacy
+        - Google Security Checkup: Tool for reviewing and enhancing account security.
+        - Google Privacy & Security: Information and tools for managing privacy settings.
+    - Miscellaneous
+        - Google Translate: Language translation service.
+        - Google Photos: Photo storage and sharing service with built-in editing tools.
+        - Google Keep: Note-taking and organization app.
+
+Google's industry: internet
+
+Google's reason for industry:
+    - Towards the end of the 1990s, two doctoral students at Stanford University, Larry Page and Sergey Brin, developed a search engine called “Backrub.” Their goal was to improve the accuracy of search results on the Internet, thus revolutionizing online navigation.
+
+Google's potential customer:
+    - Google ads audience targeting, as known as 'audience lists' or 'audience segments', is a group of users that are categorised based on shared characteristics, such as their interests, activities, engagement with your brand as well as search behaviours.
+
+Google's success projects:
+    - Google Search
+        - Description: Google Search is the flagship product of Google, revolutionizing how people find information online. It is the most widely used search engine in the world.
+        - Launch Date: September 4, 1998
+        - Market Share: As of 2023, Google Search holds approximately 92% of the global search engine market share.
+        - Search Queries: Google processes over 3.5 billion searches per day, translating to over 40,000 searches every second.
+        - Revenue: In 2023, Google Search generated significant revenue as part of Google's total ad revenue, which exceeded $225 billion for the year. Most of this revenue comes from search-based advertising through Google Ads.
+        - Impact: Google Search has set the standard for search engine technology and remains a dominant force in the online information retrieval industry.
+    - YouTube
+        - Description: Acquired by Google in November 2006, YouTube is the world’s largest video-sharing platform, allowing users to upload, view, and interact with video content.
+        - Acquisition Date: November 13, 2006
+        - User Base: As of 2024, YouTube has over 2.5 billion logged-in monthly users.
+        - Video Content: Over 500 hours of video are uploaded to YouTube every minute.
+        - Revenue: In 2023, YouTube generated over $30 billion in ad revenue, making it a major contributor to Google's overall financial performance.
+        - Impact: YouTube has transformed the media landscape, influencing entertainment, marketing, and content creation on a global scale. It is the second most visited website in the world, following Google Search.
+
+Google's unique projects:
+    - Google Quantum AI
+        - Description: Google Quantum AI is a pioneering project in quantum computing, aiming to develop quantum processors and algorithms to solve complex problems beyond the reach of classical computers.
+        - Unique Features:
+            - Quantum Supremacy: In October 2019, Google announced that it had achieved "quantum supremacy" with its Sycamore processor, demonstrating that it could perform a specific computation faster than the world’s most powerful supercomputers. The calculation, which took 200 seconds on Sycamore, would have taken approximately 10,000 years for a traditional supercomputer.
+            - Research and Development: Google Quantum AI focuses on advancing quantum algorithms, error correction, and hardware design to address problems in fields such as cryptography, material science, and complex system simulations.
+            - Collaborations: The project collaborates with academic institutions and industry partners to push the boundaries of quantum computing.
+        - Impact: Google Quantum AI is at the forefront of the emerging field of quantum computing, potentially revolutionizing industries by enabling new levels of computational power.
+
+    - Waymo
+        - Description: Waymo is Google's autonomous vehicle project, developed under Alphabet Inc.'s subsidiary. It aims to create fully self-driving cars that can operate safely and efficiently without human intervention.
+        - Unique Features:
+            - Autonomous Technology: Waymo's vehicles use a combination of LIDAR, radar, and cameras to navigate and understand their surroundings. The technology includes advanced algorithms for perception, decision-making, and control.
+            - Testing and Deployment: Waymo began public testing in 2009 and has since accumulated millions of miles of testing on public roads. As of 2024, Waymo operates autonomous ride-hailing services in certain areas, such as Phoenix, Arizona, and is expanding to other locations.
+            - Safety and Innovation: Waymo has been a leader in autonomous driving safety, with a rigorous approach to testing and a focus on developing technology that can handle a wide range of driving conditions and scenarios.
+        - Impact: Waymo is leading the charge in the autonomous vehicle industry, potentially transforming transportation by increasing safety, efficiency, and accessibility in personal and commercial transport.
+
+Google's competitors:
+    - Adobe.
+    - Amazon.
+    - Meta.
+    - Adform.
+    - Oracle.
+    - AdRoll.
+    - Yahoo.
+    - Amobee.
+
+Google's future moves:
+- From models that streamline the link between human commands and robot actions, to tools that can transform text prompts into music, Google's working at the cutting edge of deep learning, machine learning and AI – and finding new ways to integrate the resulting potential into our daily lives.

@@ -1,0 +1,3 @@
+Oracle's year founded: 1977.0
+Oracle's reason for establishment:
+    - The Oracle Corporation was founded in California by Larry Ellison, Bob Miner and Ed Oats under the name Software Development Laboratories in 1977. Inspired by a British research paper outlining a relational database model, the founders believed that there was potential in the system.

@@ -1,0 +1,43 @@
+Ey's interviewer:
+Ey's JDs opening:
+
+Ey's company's reviews:
+    - Glassdoor:
+        + Overall: 3.8/5
+        + Recommended to a friend: 74%
+        + Appoved by CEO: 82%
+        + Career opportunities: 4.0/5
+        + Diversity n inclusion: 4.0/5
+        + Comp n benefits: 3.4/5
+        + Culture n values: 3.7/5
+        + Senior management: 3.5/5
+        + Work/ Life balance: 3.0/5
+
+        + Pros:
+            - "Generally the people here are great and eager to help if you ever have a question" (in 4565 reviews)
+            - "the culture at EY is good and plenty of people in your age bracket to relate to and work with" (in 2854 reviews)
+            - "People oriented partnership (not publicly traded is a great plus) with good benefits package." (in 1922 reviews)
+            - "Colleagues at you level are great and amazing to work with!" (in 1493 reviews)
+            - "I was lucky enough to work with great teams and was always supported in my career" (in 1433 reviews)
+        
+        + Cons:
+            - "No work life balance and you are expected to work 20 hours a day during peak season" (in 7323 reviews)
+            - "hours are long and travel (if you don't want to) is sometimes unavoidable." (in 3942 reviews)
+            - "Overworked (working late hours and weekends)" (in 3229 reviews)
+            - "Salary is low and we are not focused and specialized on specific subjects (IT Advisory)" (in 2798 reviews)
+            - "low pay (above average though) and people could be nicer (not just to your face)" (in 1941 reviews)
+
+    - Indeed: 
+        + Overall: 3.9/5
+        + Work/ Life balance: 3.4/5
+        + Comp n benefits: 3.6/5
+        + Job security n Advancement: 3.8/5
+        + Management: 3.6/5
+        + Culture: 3.8/5
+
+        + Based on 10065 reviews:
+            - 3.2k: 5/5
+            - 3.9k: 4/5
+            - 2.1k: 3/5
+            - 483: 2/5
+            - 371: 1/5

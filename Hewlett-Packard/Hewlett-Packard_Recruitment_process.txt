@@ -1,0 +1,33 @@
+Hewlett-Packard's salary:
+    - Marketing Manager yearly:
+        - Low: $55,000
+        - Average: $109,738
+        - High: $178,000
+
+    - Hardware Engineer yearly:
+        - Low: $48,000
+        - Average: $106,948
+        - High: $188,000
+
+    - User Experience Designer yearly:
+        - Low: $66,000
+        - Average: $131,858
+        - High: $205,000
+
+    - Design Engineer yearly:
+        - Low: $48,000
+        - Average: $125,201
+        - High: $238,000
+
+    - Software Engineer yearly:
+        - Low: $41,000
+        - Average: $98,114
+        - High: $178,000
+
+    - Developer yearly:
+        - Low: $67,000
+        - Average: $134,071
+        - High: $202,000
+
+Hewlett-Packard's request for proposal:
+Hewlett-Packard's process and time:

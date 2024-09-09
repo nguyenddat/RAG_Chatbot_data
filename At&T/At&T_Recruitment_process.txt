@@ -1,0 +1,48 @@
+At&T's salary:
+    - Telecommunications Technician yearly:
+        - Low: $14,000
+        - Average: $36,082
+        - High: $68,000
+    
+    - Software Engineer yearly:
+        - Low: $42,000
+        - Average: $105,989
+        - High: $197,000
+    
+    - Director of Product Management yearly:
+        - Low: $80,000
+        - Average: $168,622
+        - High: $289,000
+    
+    - Sales yearly:
+        - Low: $23,000
+        - Average: $54,401
+        - High: $99,000
+    
+    - Sales Representative yearly:
+        - Low: $19,000
+        - Average: $51,944
+        - High: $101,000
+    
+    - Sales Associate hourly:
+        - Low: $7.40
+        - Average: $16.48
+        - High: $29.00
+    
+    - Technician hourly:
+        - Low: $7.25
+        - Average: $23.36
+        - High: $70.10
+    
+    - Premises Technician hourly:
+        - Low: $13.45
+        - Average: $26.71
+        - High: $40.45
+    
+    - Facilities Technician yearly:
+        - Low: $36,000
+        - Average: $73,220
+        - High: $110,000
+    
+At&T's request for proposal:
+At&T's process and time:

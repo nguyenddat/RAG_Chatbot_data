@@ -1,0 +1,53 @@
+Nokia's interviewer:
+Nokia's JDs opening:
+    - Python Developer - Working Student:
+        - highly regarded skills experience:
+            - Knowledge of XML
+        - Apply link: https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/902/?keyword=python&mode=location
+    
+    - Sustainable AI and Data science Specialist:
+        - Apply link: https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/9384/?keyword=Data+science&mode=location
+    
+    - Apprentice Telecoms CyberSecurity Specialist:
+        - Apply link: https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/6625/?keyword=cybersecurity+&mode=location
+
+Nokia's company's reviews:
+    - Glassdoor:
+        + Overall: 4.0/5
+        + Recommended to a friend: 81%
+        + Appoved by CEO: 82%
+        + Career opportunities: 3.7/5
+        + Diversity n inclusion: 4.3/5
+        + Comp n benefits: 3.6/5
+        + Culture n values: 4.2/5
+        + Senior management: 3.6/5
+        + Work/ Life balance: 4.2/5
+
+        + Pros:
+            - "In most positions the work / life balance is good and working hours are normal." (in 1977 reviews)
+            - "The company and workplace is very diverse and I met a lot of great employees and people." (in 723 reviews)
+            - "The benefits are good and the people are overall wonderful." (in 705 reviews)
+            - "Culture is good and friendly" (in 678 reviews)
+            - "work culture is good and not much tensions like other service based companies" (in 641 reviews)
+                    
+        + Cons:
+            - "salary is low and not easy to get a promotion" (in 1038 reviews)
+            - "bad management and stressful sometimes" (in 476 reviews)
+            - "Too many managers in the office and the organization in each department is quite complex." (in 219 reviews)
+            - "During my time there I saw many layoffs and huge increases in the demands on remaining employees." (in 164 reviews)
+            - "Poor leadership; Inability to execute; inability to get innovations to market; poor use of human resources i.e. talent" (in 88 reviews)
+
+    - Indeed: 
+        + Overall: 4.1/5
+        + Work/ Life balance: 4.0/5
+        + Comp n benefits: 3.8/5
+        + Job security n Advancement: 3.5/5
+        + Management: 3.6/5
+        + Culture: 3.9/5
+
+        + Based on 5402 reviews:
+            - 2.2k: 5/5
+            - 2k: 4/5
+            - 947: 3/5
+            - 211: 2/5
+            - 114: 1/5

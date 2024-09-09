@@ -1,0 +1,48 @@
+Bank Of America's salary:
+    - Software Engineer yearly:
+        - Low: $47,000
+        - Average: $103,579
+        - High: $181,000
+
+    - Registered Client Associate yearly:
+        - Low: $27,000
+        - Average: $55,639
+        - High: $84,000
+
+    - Relationship Banker hourly:
+        - Low: $11.70
+        - Average: $23.43
+        - High: $35.25
+
+    - Assistant Vice President yearly :
+        - Low: $54,000
+        - Average: $107,148
+        - High: $163,000
+
+    - Vice President of Finance yearly:
+        - Low: $62,000
+        - Average: $146,028
+        - High: $265,000
+
+    - Director yearly:
+        - Low: $70,000
+        - Average: $209,532
+        - High: $421,000
+
+    - Lending Officer yearly:
+        - Low: $33,000
+        - Average: $98,960
+        - High: $199,000
+
+    - Fraud Analyst hourly:
+        - Low: $11.20
+        - Average: $22.29
+        - High: $33.65
+
+    - Bank Clerk hourly:
+        - Low: $9.45
+        - Average: $18.65
+        - High: $30.00
+
+Bank Of America's request for proposal:
+Bank Of America's process and time:

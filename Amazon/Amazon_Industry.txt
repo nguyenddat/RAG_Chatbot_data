@@ -1,0 +1,94 @@
+Amazon's type of product:
+    - Electronics: Smartphones, laptops, tablets, cameras, smartwatches, headphones, TVs, and more.
+    - Books: Physical books, e-books, audiobooks, and textbooks.
+    - Home & Kitchen: Appliances, cookware, furniture, home décor, cleaning supplies, and more.
+    - Clothing, Shoes & Jewelry: Apparel for men, women, and children, shoes, accessories, and jewelry.
+    - Toys & Games: Toys for all ages, games, puzzles, and educational toys.
+    - Health & Household: Personal care items, vitamins, fitness equipment, and household essentials.
+    - Sports & Outdoors: Exercise equipment, camping gear, outdoor clothing, and sports accessories.
+    - Automotive: Car parts, accessories, tools, and car care products.
+    - Grocery & Gourmet Food: Food items, beverages, snacks, and gourmet specialties.
+    - Office Products: Office supplies, furniture, and equipment.
+    - Pet Supplies: Pet food, toys, grooming products, and accessories for various pets.
+    - Tools & Home Improvement: Hand tools, power tools, lighting, and home improvement supplies.
+
+Amazon's industry: internet
+
+Amazon's reason for industry:
+    - After reading a report about the future of the Internet that projected annual web commerce growth at 2,300%, Bezos created a list of 20 products that could be marketed online.
+
+Amazon's potential customer:
+    - A broad spectrum of consumers, ranging from tech enthusiasts to fashion-forward individuals.
+    - specific demographics that Amazon focuses on to drive its success: millennials, urban dwellers, and value-conscious shoppers.
+
+Amazon's success projects:
+    - Amazon Prime:
+        + Launch: 2005
+        + Membership: Over 200 million global members as of 2021.
+        + Benefits: Free shipping, access to streaming video and music, exclusive deals.
+    
+    - Amazon Web Services (AWS):
+        + Launch: 2006
+        + Revenue: Approximately $81 billion in fiscal year 2022.
+        + Market Share: AWS holds about 33% of the global cloud services market as of 2022.
+    
+    - Amazon Echo & Alexa:
+        + Launch: Echo launched in 2014; Alexa, the voice assistant, launched at the same time.
+        + Device Sales: Over 100 million Echo devices sold as of 2021.
+        + Market: Alexa is one of the most popular voice assistants with over 100,000 Skills (apps).
+    
+    - Amazon Fresh & Whole Foods Acquisition:
+        + Amazon Fresh: Launched in 2007, expanding grocery delivery services.
+        + Whole Foods Acquisition: Acquired in 2017 for approximately $13.7 billion.
+        + Growth: The Whole Foods network has boosted revenue in the grocery sector and strengthened Amazon’s presence in retail.
+
+    - Amazon Go:
+        + Launch: 2016
+        + Number of Stores: Over 30 Amazon Go stores in the U.S. as of 2023.
+        + Technology: Utilizes sensors and computer vision technology for a checkout-free shopping experience.
+    
+    - Kindle:
+        + Launch: 2007
+        + Sales: Over 90 million Kindle devices sold as of 2021.
+        + Impact: Kindle has significantly influenced the e-book market and changed consumer reading habits.
+    
+    - Amazon Prime Video:
+        + Launch: 2006, as part of Amazon Prime.
+        + Revenue: Revenue from Prime Video is not publicly disclosed separately, but it has become one of the leading streaming services with millions of users and a vast library of original content.
+    
+    - Amazon Robotics:
+        + Launch: Amazon began integrating robotics technology into its warehouses in 2012 (following the acquisition of Kiva Systems).
+        + Impact: The integration of robotics has improved order processing efficiency and reduced delivery times.
+
+Amazon's unique projects:
+    - Amazon Prime Air:
+        + Launch: Announced in 2013
+        + Objective: To deliver packages to customers using drones.
+        + Status: In development, with test flights and trials conducted. As of 2024, Amazon has begun limited commercial drone deliveries in select areas.
+
+    - Amazon Alexa & Skills Kit:
+        + Launch: 2014 (Alexa), Skills Kit in 2015
+        + Objective: To enable third-party developers to create voice-enabled apps (Skills) for Alexa.
+        + Impact: Expanded the functionality of Alexa, allowing integration with thousands of apps and services.
+
+    - Amazon Web Services (AWS) Lambda:
+        + Launch: 2014
+        + Objective: To offer serverless computing services, allowing developers to run code without provisioning or managing servers.
+        + Impact: Simplified backend development and reduced costs for running applications.
+
+Amazon's competitors:
+    - Online stores
+    - eBay
+    - Walmart
+    - Flipkart
+    - Target
+    - Alibaba Group
+    - Otto
+    - JD
+    - Netflix
+    - Rakuten
+
+Amazon's future moves:
+    - Amazon is enabling 12 new renewable energy projects in Spain, with a combined capacity of 596 MW. These energy agreements raise our renewable capacity in the country to more than 2.9 GW, totaling 79 wind and solar projects in Spain, including 49 large-scale off-site projects (nine wind, 40 solar) and 30 solar energy rooftop installations on our buildings.
+    - The new projects will consist of four wind farms and eight solar farms, distributed across the country. With these projects, we further our commitment to Spain and renewable energy.
+    - Enable more than 100 new solar and wind energy projects in 2023, becoming the world’s largest corporate purchaser of renewable energy for the fourth year in a row.

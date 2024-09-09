@@ -1,0 +1,30 @@
+Oracle's domain: oracle.com
+Oracle's size range: 10001+
+Oracle's current employee estimate: 85090
+Oracle's total employee estimate: 206211
+Oracle's locality: redwood shores, california, united states
+Oracle's address:
+    - Oracle is headquartered in Austin, 2300 Cloud Way, United States, and has 280 office locations.
+    - Oracle is headquartered at 2300 Cloud Way Hq, Austin, United States
+    - Oracle is headquartered at 7 Southwoods Blvd Suite 201, Colonie, Albany, United States
+    - Oracle is headquartered at 9007B Washington St Ne, Albuquerque, United States
+    - Oracle is headquartered at 306 Sentinel Dr, Annapolis Junction, United States
+    - Oracle is headquartered at 777 E Eisenhower Pkwy Suite 950, Ann Arbor, United States
+    - Oracle is headquartered at 440 E Huntington Dr #400, Arcadia, United States
+    - Oracle is headquartered at 1812 N Moore St #1910, Arlington, United States
+    - Oracle is headquartered at 2311 Wilson Blvd, Arlington, United States
+    - Oracle is headquartered at 5300 Riata Park Ct Building B, Austin, United States
+
+Oracle's country: united states
+Oracle's hotline:
+    - Oracle Support Portal (My Oracle Support):
+        - If you are an Oracle customer with a support contract, you can access the Oracle Support Portal to create and manage service requests, download software updates, and access a wealth of support documentation.
+    - Oracle General Inquiries:
+        - For general questions and inquiries, Oracle has a global contact page where you can find phone numbers by country and region. You can access it here.
+    - Oracle Sales Inquiries:
+        - If you are interested in Oracle products and services and want to talk to a sales representative, you can visit the Oracle Sales Contact Page.
+    - Customer Support Hotline:
+        - Oracle has country-specific hotlines for customer and technical support. For example, in the United States, the general customer service number is +1.800.633.0738. For technical support, you usually need to log into the Oracle Support Portal mentioned above.
+    - Social Media:
+        - Oracle also provides support and information through its social media channels, including Twitter (@OracleSupport) and LinkedIn.
+Oracle's linkedin url: linkedin.com/company/oracle

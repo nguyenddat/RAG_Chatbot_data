@@ -1,0 +1,28 @@
+Ey's salary:
+    - Systems Analyst yearly:
+        - Low: $49,000
+        - Average: $131,247
+        - High: $253,000
+
+    - Director of Strategy yearly:
+        - Low: $117,000
+        - Average: $231,692
+        - High: $351,000
+
+    - Senior Manager yearly:
+        - Low: $111,000
+        - Average: $218,547
+        - High: $355,000
+
+    - Operations Analyst yearly:
+        - Low: $49,000
+        - Average: $145,622
+        - High: $292,000
+
+    - Senior Quality Assurance Analyst yearly:
+        - Low: $48,000
+        - Average: $96,116
+        - High: $146,000
+
+Ey's request for proposal:
+Ey's process and time:

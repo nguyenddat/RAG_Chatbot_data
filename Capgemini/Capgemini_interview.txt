@@ -1,0 +1,55 @@
+Capgemini's interviewer:
+Capgemini's JDs opening:
+    - Power BI & Snowflake Developer:
+        - Highly regarded skills experience
+            - Ideal candidates will have experience with BI modernization projects and cross-tech expertise in OAS and Power BI. 
+            - Retirement industry experience is a plus.
+            - Familiarity with Agile methodologies and support for production migrations is expected
+        - Apply link: https://www.capgemini.com/jobs/MkQXWZEBh-uN-C4IHK_5/data-modeller---c/
+    - Full Java Developer:
+        - Highly regarded skills experience
+            - Infrastructure as code: Terraform, Terragrunt.
+            - Secrets management: Vault or AWS Secrets Manager
+        Apply link: https://www.capgemini.com/jobs/LkSHWJEBh-uN-C4I969q/desenvolvedor-java-pleno/
+    - Sr. Mainframe Developer:
+        - Apply link: https://www.capgemini.com/jobs/L0SHWJEBh-uN-C4I9693/desenvolvedor-mainframe-sr/   
+Capgemini's company's reviews:
+    - Glassdoor:
+        + Overall: 3.9/5
+        + Recommended to a friend: 76%
+        + Appoved by CEO: 88%
+        + Comp n benefits: 3.3/5
+        + Career opportunities: 3.8/5
+        + Culture n values: 3.9/5
+        + Senior management: 3.6/5
+        + Work/ Life balance: 3.9/5
+        + Diversity n inclusion: 4.1/5
+
+        + Pros:
+            - "If someone want a company with good infrastructure and company with full enjoyment than Capgemini which provide good work life balance" (in 7387 reviews)
+            - "Work culture is good and it depends on the team in which you are in." (in 3348 reviews)
+            - "Good work environment...package is ok..I am working for more than 3 years mostly it is ok." (in 1651 reviews)
+            - "You might come across few exceptions but as per my experience the people and culture is good" (in 1604 reviews)
+            - "Some good people work in this company and it is great to be around them." (in 1309 reviews)
+        
+        + Cons:
+            - "Provide less salary hike so try to get salary when you joining after that not get that much hike." (in 3550 reviews)
+            - "5. Should be awarded with A++ grade in terms of poor management and project allocation." (in 2080 reviews)
+            - "No salary hike...u will get depressed if ur experience is more and u dont have any onsite" (in 1653 reviews)
+            - "Less pay and hike is low" (in 913 reviews)
+            - "Bad managers always critical not supportive" (in 839 reviews)
+
+    - Indeed: 
+        + Overall: 3.7/5
+        + Work/ Life balance: 3.7/5
+        + Comp n benefits: 3.2/5
+        + Job security n Advancement: 3.5/5
+        + Management: 3.3/5
+        + Culture: 3.6/5
+
+        + Based on 10253 reviews:
+            - 2.6k: 5/5
+            - 4k: 4/5
+            - 2.5k: 3/5
+            - 630: 2/5
+            - 509: 1/5

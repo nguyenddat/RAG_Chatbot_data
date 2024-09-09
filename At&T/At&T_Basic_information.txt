@@ -1,0 +1,46 @@
+At&T's domain: att.com
+
+At&T's size range: 10001+
+
+At&T's current employee estimate: 115188
+
+At&T's total employee estimate: 269659
+
+At&T's locality: dallas, texas, united states
+
+At&T's address:
+    - AT&T is headquartered in Dallas, 208 S Akard St, United States, and has 94 office locations.
+    - United States:
+        - Dallas: 208 S Akard St
+    - Argentina:
+        - Buenos Aires:	Edison 2659, Edificio 2, San Isidro
+        - Buenos Aires:	Juana Manso 555, 3rd FL, B. Dique IV, Puerto Madero Capital Federal
+    - Autralia:
+        - North Sydney: Shop 6/141 Walker St
+    - Austria:
+        - Wien: Kärntner Ring 5-7
+    - Belgium: 
+        - Bruxelles: Rue Picard 7
+        - Namur: Av. des dessus de Lives 2
+    - Brazil: 
+        - São Paulo: Rua James Joule, 65 – 6 and 7 floors, Brooklin
+    - Bulgaria: 
+        - Sofia: bul. "Patriarh Evtimiy" 19А, fl. 2
+    - Canada:
+        - Calgary: 700 Avenue SW 2nd floor, Suite 260
+
+At&T's country: united states
+
+At&T's hotline:
+    - Customer Support Phone Numbers:
+        - Wireless Support: 1-800-331-0500
+        - Internet/TV Support: 1-800-288-2020
+        - Customer Service for Deaf or Hard of Hearing (TTY): 1-866-241-6567
+        - International Support (while traveling): +1-314-925-6925 (Free from mobile device)
+    - AT&T Corporate Headquarters:
+        - Phone: 1-210-821-4105 (Corporate inquiries)
+    - AT&T Business Support:
+        - Small Business Support: 1-888-944-0447
+        - Enterprise Support: 1-877-438-0041
+
+At&T's linkedin url: linkedin.com/company/at&t

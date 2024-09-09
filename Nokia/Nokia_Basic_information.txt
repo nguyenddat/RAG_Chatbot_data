@@ -1,0 +1,32 @@
+Nokia's domain: nokia.com
+Nokia's size range: 10001+
+Nokia's current employee estimate: 84327
+Nokia's total employee estimate: 251795
+Nokia's locality: espoo, uusimaa, finland
+Nokia's address:
+    - Nokia is headquartered in Espoo, Karakaari 7, Finland, and has 217 office locations.
+    - Nokia is headquartered at Karakaari 7 Hq, Espoo, Finland
+    - Nokia is headquartered at 111 North Ashley, Ann Arbor, United States
+    - Nokia is headquartered at 10431 Morado Circle
+    - Nokia is headquartered at 1100 112Th Avenue Ne, Bellevue, United States
+    - Nokia is headquartered at 3201 Olympus Blvd, Dallas, United States
+    - Nokia is headquartered at 5455 Rings Road
+    - Nokia is headquartered at 2525 Highway 121, Lewisville, United States
+    - Nokia is headquartered at 701, 777, & 805 East Middlefield Road, 440 N. Bernardo Ave, Mountain View, United States
+    - Nokia is headquartered at 600-700 Mountain Avenue, Murray Hill, United States
+Nokia's country: finland
+
+Nokia's hotline:
+    - Global Support: For general inquiries, you can reach Nokia's global support through their support website.
+    - United States:
+        - Nokia Consumer Care: 1-844-536-7837
+    - United Kingdom:
+        - Nokia Customer Support: 0800 059 1586
+    - India:
+        - Nokia Care: 1800-102-1678
+    - Australia:
+        - Nokia Support: 1-800-812-411
+    - Canada:
+        - Nokia Support: 1-844-536-7837
+
+Nokia's linkedin url: linkedin.com/company/nokia

@@ -1,0 +1,34 @@
+Oracle's salary:
+    - Software Engineer yearly:
+        - Low: $74,000
+        - Average: $147,328
+        - High: $232,000
+
+    - Director of Strategy yearly:
+        - Low: $132,000
+        - Average: $263,996
+        - High: $399,000
+
+    - Application Developer yearly:
+        - Low: $60,000
+        - Average: $119,502
+        - High: $199,000
+
+    - Programmer Analyst yearly:
+        - Low: $32,000
+        - Average: $65,890
+        - High: $112,000
+
+    - Account Executive yearly:
+        - Low: $25,000
+        - Average: $72,727
+        - High: $144,000
+
+    - Business Development Consultant yearly:
+        - Low: $26,000
+        - Average: $53,414
+        - High: $81,000
+
+
+Oracle's request for proposal:
+Oracle's process and time:

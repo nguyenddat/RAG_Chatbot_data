@@ -1,0 +1,59 @@
+Apple's type of product:
+    - iPhone
+    - iPad
+    - Mac
+    - Apple watch
+    - Apple tv
+    - Airpods
+    - Homepod
+    - Accessories
+    - Software and Services
+    - Pro apps
+
+Apple's industry: consumer electronics
+
+Apple's reason for industry:
+    - Jobs and Wozniak wanted to make computers small enough for people to have them in their homes or offices. Simply put, they wanted a computer that was user-friendly.
+
+Apple's potential customer:
+    - The Apple target market includes mainly younger to middle aged consumers, and the brand is more popular among women than men. 
+    - The typical Apple customer profile is of middle- to high economic status, enjoys the small luxuries in life, and appreciates technology and design.
+
+Apple's success projects:
+    1. iPhone
+        - First Release: June 29, 2007
+        - Cumulative Sales: Over 2.2 billion iPhones sold worldwide as of 2023.
+        - Impact: The iPhone revolutionized the smartphone industry, becoming Apple's flagship product and a significant revenue driver. It contributed to Apple becoming the first U.S. company to reach a $1 trillion market cap in 2018.
+    2. iPad
+        - First Release: April 3, 2010
+        - Cumulative Sales: Over 500 million iPads sold as of 2021.
+        - Impact: The iPad created a new category of personal computing devices, dominating the tablet market. It has been widely used in education, business, and entertainment.
+    3. MacBook
+        - First Release: May 16, 2006 (as the MacBook, but the Mac line dates back to 1984)
+        - Cumulative Sales: While exact cumulative sales figures are not disclosed, Mac revenue hit a record $40.2 billion in fiscal year 2022, largely driven by the MacBook lineup.
+        - Impact: The MacBook, particularly after transitioning to Apple Silicon (M1, M2 chips), has been praised for its performance and efficiency, making it a top choice for professionals and consumers alike.
+
+Apple's unique projects:
+    1. Apple Silicon (M1 and M2 chips)
+        - First Release (M1 chip): November 10, 2020
+        - Unique Aspect: Apple Silicon represents a significant shift in computer architecture, moving away from Intel processors to Apple’s own ARM-based chips. The M1 and M2 chips offer remarkable performance, efficiency, and integration across the Mac, iPad, and even some iPhone models.
+    2. Apple Card
+        - First Release: August 2019
+        - Unique Aspect: The Apple Card is a credit card designed by Apple in partnership with Goldman Sachs. It’s unique for its integration with the iPhone, offering a simple, transparent user experience with features like Daily Cash rewards, no fees, and strong privacy protections.
+    3. Apple Vision Pro
+        - Expected Release: Early 2024
+        - Unique Aspect: Apple Vision Pro is a mixed-reality headset that merges digital content with the physical world. It features advanced eye-tracking, hand gestures, and spatial audio, aiming to redefine personal computing by creating immersive experiences that integrate seamlessly with the user’s environment.
+
+Apple's competitors:
+    1. Smartphones:
+        - Samsung
+        - Huawei
+        - Xiaomi, Oppo, and other Chinese brands
+    2. Computers:
+        - Microsoft
+        - Dell, HP, Lenovo
+    3. Services:
+        - Google
+        - Amazon Prime
+
+Apple's future moves:

@@ -1,0 +1,30 @@
+Ey's domain: ey.com
+
+Ey's size range: 10001+
+
+Ey's current employee estimate: 158363
+
+Ey's total employee estimate: 428960
+
+Ey's locality: london, greater london, united kingdom
+
+Ey's address:
+    - Ey is headquartered at 1 More London Riverside Hq, London, United Kingdom
+    - Ey is headquartered at 1200 E Market St Suite 720, Akron, United States
+    - Ey is headquartered at Lake View I, 1105 Lakewood Parkway, Suite 200, Alpharetta, United States
+    - Ey is headquartered at 55 Ivan Allen Jr. Blvd, Suite 1000, Atlanta, United States
+    - Ey is headquartered at 401 Congress, Suite 3200, Austin, United States
+    - Ey is headquartered at 1201 Wills St #310, Baltimore, United States
+    - Ey is headquartered at Amsouth/Harbert Plaza, 1901 Sixth Ave N., Suite 1200, Birmingham, United States
+    - Ey is headquartered at 5100 Town Center Cir Suite #500, Boca Raton, United States
+    - Ey is headquartered at 200 Clarendon Street, Boston, United States
+
+Ey's country: united kingdom
+
+Ey's hotline:
+    - Global Headquarters:
+        - Address: EY Global, 6 More London Place, London, SE1 2DA, United Kingdom
+        - Phone: +44 20 7951 2000
+        - Website: www.ey.com
+
+Ey's linkedin url: linkedin.com/company/ernstandyoung

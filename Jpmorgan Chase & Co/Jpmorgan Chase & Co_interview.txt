@@ -1,0 +1,61 @@
+Jpmorgan Chase & Co.'s interviewer:
+Jpmorgan Chase & Co.'s JDs opening:
+    - Data Analytics (SQL Developer):
+        - highly regarded skills experience:
+            - At least 3 years Development experience on dashboarding such as Power BI, Tableau (preferred)
+            - Experience using SharePoint, JIRA and Business Intelligence tools (preferred) 
+            - Programming tools and/or Knowledge - R, PowerShell, scripting, etc. (preferred) 
+            - Knowledge in Home Lending LOB/functions (preferred)
+            - Programming experience using VBA / Python (highly preferred)
+        - Apply link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/210460769/?keyword=
+    
+    - Lead Software Engineer - Python, AWS, Microservices
+        - Apply link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/210468754/?keyword=
+    
+    - Part Time Associate Banker Sarasota (30 hours):
+        - highly regarded skills experience:
+            - Ability to make personal connections, engage customers, and remain courteous and professional in a team environment while quickly and accurately learn products, services, and procedures
+            - Professional, interpersonal, thorough, detailed oriented, and organized with follow-up skills
+            - Strong desire and ability to influence, educate, and connect customers to technology
+            - Cash handling experience
+
+Jpmorgan Chase & Co.'s company's reviews:
+    - Glassdoor:
+        + Overall: 4.0/5
+        + Recommended to a friend: 81%
+        + Appoved by CEO: 88%
+        + Career opportunities: 4.0/5
+        + Diversity n inclusion: 4.2/5
+        + Comp n benefits: 3.9/5
+        + Culture n values: 3.9/5
+        + Senior management: 3.6/5
+        + Work/ Life balance: 3.7/5
+
+        + Pros:
+            - "Benefits are good and the amount of knowledge that is available from the more seasoned members of the teams" (in 2708 reviews)
+            - "Generally enjoyable people to work with (depends on your department since cultures vary widely across teams) Good work life balance" (in 1435 reviews)
+            - "'The pay is good and is higher than similar telephone sales jobs in the area.'" (in 1352 reviews)
+            - "There is always something to learn and the people you work with are great at helping you advance your career." (in 1268 reviews)
+            - "Great culture and very performance based" (in 989 reviews)
+        
+        + Cons:
+            - "Poor management also very strict dual control makes you a little paranoid after a while and finally lots of extra work" (in 846 reviews)
+            - "managers are bad because they dont know how to manage people and would promote their friends instead of the actual top performers" (in 622 reviews)
+            - "Hours were long and I felt that compensation at a junior level was not competitive given hours worked." (in 617 reviews)
+            - "Upper management is horrible." (in 188 reviews)
+            - "No work from home ( min 3 days in office )" (in 127 reviews)
+
+    - Indeed: 
+        + Overall: 3.9/5
+        + Work/ Life balance: 3.7/5
+        + Comp n benefits: 3.8/5
+        + Job security n Advancement: 3.4/5
+        + Management: 3.4/5
+        + Culture: 3.6/5
+
+        + Based on 19539 reviews:
+            - 6.9k: 5/5
+            - 6.5k: 4/5
+            - 3.9k: 3/5
+            - 1.2k: 2/5
+            - 1k: 1/5

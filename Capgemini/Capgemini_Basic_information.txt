@@ -1,0 +1,32 @@
+Capgemini's domain: capgemini.com
+
+Capgemini's size range: 10001+
+
+Capgemini's current employee estimate: 84179
+
+Capgemini's total employee estimate: 203525
+
+Capgemini's locality: france, aquitaine, france
+
+Capgemini's address:
+    - Capgemini is headquartered in Paris, 11 Rue de Tilsitt, France, and has 292 office locations.
+    - France:
+        - Paris: 11 Rue de Tilsitt
+    - United States:
+        - Atlanta: 3475 Piedmont Rd NE #1400
+        - Austin:	600 Center Ridge Dr #600
+        - Bellevue: 3120 139th Ave SE
+        - Bridgewater Township: Office No:126-129,134-139, 100 Somerset Corporate Blvd
+        - Burlington:	1 Burlington Woods Dr
+        - Chicago: 333 Wacker Drive
+        - Cincinnati:	3825 Edwards Rd Suite 103
+        - Columbia: 2142 Boyce St
+        - El Paso: 1359 Lomaland Dr
+
+Capgemini's country: france
+
+Capgemini's hotline:
+    - Headquarters Contact Information: +33 (0)1 47 54 50 00
+    - North America Headquarters: +1 212-314-8000
+
+Capgemini's linkedin url: linkedin.com/company/capgemini

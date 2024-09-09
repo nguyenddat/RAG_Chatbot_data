@@ -1,0 +1,43 @@
+Hsbc's domain: hsbc.com
+Hsbc's size range: 10001+
+Hsbc's current employee estimate: 75640
+Hsbc's total employee estimate: 225649
+Hsbc's locality: london, greater london, united kingdom
+
+Hsbc's address:
+    - HSBC is headquartered in London, 8 Canada Square, United Kingdom, and has 83 office locations.
+    - HSBC is headquartered at 8 Canada Square Hq, London, United Kingdom
+    - HSBC is headquartered at 1800 Tysons Blvd #50, Mclean, United States
+    - HSBC is headquartered at 66 Hudson Blvd E, New York, United States
+    - HSBC is headquartered at Complexe Immobilier Oriental Business Park
+    - HSBC is headquartered at Bouchard 557 Piso 23, Buenos Aires, Argentina
+    - HSBC is headquartered at Florida 201, Buenos Aires, Argentina
+    - HSBC is headquartered at 42 Paronyan Street, Yerevan, Armenia
+    - HSBC is headquartered at Level 36 - Tower 1 - International Towers
+    - HSBC is headquartered at Herrengasse 1-3, Wien, Austria
+Hsbc's country: united kingdom
+
+Hsbc's hotline:
+    - General HSBC Customer Support:
+        - Phone Number:
+            - U.S.: 1-800-975-4722
+            - UK: 03457 404 404
+            - Canada: 1-888-310-4722
+        - Website: HSBC Contact Us
+    - HSBC Online Banking Support:
+        - Phone Number:
+            - U.S.: 1-800- HSBC (4722)
+        - Website: HSBC Online Banking Support
+    - HSBC Credit Card Support:
+        - Phone Number:
+            - U.S.: 1-800-528-1208 (for lost or stolen cards)
+            - UK: 03457 404 404
+        - Website: HSBC Credit Card Support
+    - HSBC Business Banking Support:
+        - Phone Number:
+            - U.S.: 1-800-662-3348
+        - Website: HSBC Business Banking Support
+    - International Support:
+        - Website: For international customer support and country-specific contact numbers, visit the HSBC Global Contact Page
+
+Hsbc's linkedin url: linkedin.com/company/hsbc

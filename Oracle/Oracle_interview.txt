@@ -1,0 +1,61 @@
+Oracle's interviewer:
+Oracle's JDs opening:
+    - Sr. Principal Software Engineer:
+        - highly regarded skills experience:
+            - 10+ years distributed service engineering experience in a software development environment.
+            - Experience driving architecture & functional reviews, documentation, UX reviews, and working with Product Managers through the entire launch process.
+            - Hands-on experience building and operating entire systems and services.
+            - Strong development experience in Java, C++, C#, or similar OO languages
+            - Working familiarity with networking protocols (TCP/IP, HTTP) and standard network architectures
+            - Good understanding of databases, NoSQL systems, storage, and distributed persistence technologies
+            - Experience providing technical leadership.
+            - Ability to implement or lead multiple key-projects in parallel.
+            - High verbal & written communication skills
+        - Apply link: https://careers.oracle.com/jobs/#en/sites/jobsearch/requisitions/preview/254980/?lastSelectedFacet=locations&selectedLocationsFacet=300000000106749%3B300000000149325&selectedFlexFieldsFacets=%22AttributeChar16%7CJoinOCI-SDE%22
+
+    - Principal Software Developer, C/C++, Network Load Balancer Data Plane (JoinOCI-SDE)
+        - Apply link: https://careers.oracle.com/jobs/#en/sites/jobsearch/requisitions/preview/254318/?lastSelectedFacet=locations&selectedLocationsFacet=300000000106749%3B300000000149325&selectedFlexFieldsFacets=%22AttributeChar16%7CJoinOCI-SDE%22
+    
+    - Senior Software Developer, C/C++, Virtual Networking Data Plane (JoinOCI-SDE)
+        - Apply link: https://careers.oracle.com/jobs/#en/sites/jobsearch/requisitions/preview/254538/?lastSelectedFacet=locations&selectedLocationsFacet=300000000106749%3B300000000149325&selectedFlexFieldsFacets=%22AttributeChar16%7CJoinOCI-SDE%22
+
+Oracle's company's reviews:
+    - Glassdoor:
+        + Overall: 3.8/5
+        + Recommended to a friend: 73%
+        + Appoved by CEO: 80%
+        + Career opportunities: 3.6/5
+        + Diversity n inclusion: 4.0/5
+        + Comp n benefits: 3.4/5
+        + Culture n values: 3.7/5
+        + Senior management: 3.4/5
+        + Work/ Life balance: 4.0/5
+
+        + Pros:
+            - "Good work life balance given so that you become lazy and settle down for less and compromise" (in 6655 reviews)
+            - "Good benefits and teaches you how to deal with executives and helps you figure out what you want to do later in life." (in 2948 reviews)
+            - "There are some great people that work here and those involved in projects give their all." (in 2121 reviews)
+            - "work culture is good and your work is seen by all the people in the hierarchy" (in 1501 reviews)
+            - "Good and flexible work from home" (in 1404 reviews)
+                                
+        + Cons:
+            - "I was hired on a low salary and made my way up to being a very useful asset." (in 1996 reviews)
+            - "management is poor and inefficient" (in 1558 reviews)
+            - "No promotions and no bonuses (for promotions you need to go out of the company and come back)" (in 1016 reviews)
+            - "Managers seem to be caught up in politics and corruption quite frequently and are frequently bad at managing and very good at micromanagement." (in 930 reviews)
+            - "poor leadership; managed by a spreadsheet and billable utilization with no other considerations; just a number" (in 337 reviews)
+
+    - Indeed: 
+        + Overall: 3.8/5
+        + Work/ Life balance: 3.9/5
+        + Comp n benefits: 3.6/5
+        + Job security n Advancement: 3.4/5
+        + Management: 3.3/5
+        + Culture: 3.5/5
+
+        + Based on 7289 reviews:
+            - 2.1k: 5/5
+            - 2.7k: 4/5
+            - 1.7k: 3/5
+            - 532: 2/5
+            - 305: 1/5

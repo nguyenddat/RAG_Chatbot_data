@@ -1,0 +1,21 @@
+Google's key values:
+    - Protecting users
+        - Every day Google keeps billions of people safer online. We protect our users with industry-leading security, responsible data practices, and easy-to-use privacy controls.
+    - Building belonging
+        - Working to expand what’s possible for everyone by building belonging in our workplace, products, and society.
+    - Expanding opportunity
+        - $2 billion in cash. 1.4 million volunteer hours. $7 billion in ad grants. Providing people with information, tools and services to help them build knowledge, fuel curiosity, and unlock opportunity.
+    - Responding to crises
+        - Helping those affected by crises through our products, our people, and our partners.
+    - Advancing sustainability
+        - Helping to lead the transition to a more sustainable future by making information accessible and by driving innovation forward.
+
+Google's community significance:
+    - Economic empowerment
+        - We support digital skills training for job seekers, equitable access to capital, and small and medium businesses— particularly in underrepresented communities.
+    - Technology and innovation
+        - We support organizations using technology to address societal and environmental challenges. We also empower third-party advocates to share the value, responsibility, and accessibility of AI and emerging technology.
+    - Learning
+        - We support organizations that are supporting equitable access to quality learning materials, computer science education, and digital responsibility resources.
+
+Google's development orientation:

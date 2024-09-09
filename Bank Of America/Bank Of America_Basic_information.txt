@@ -1,0 +1,38 @@
+Bank Of America's domain: bankofamerica.com
+
+Bank Of America's size range: 10001+
+
+Bank Of America's current employee estimate: 97357
+
+Bank Of America's total employee estimate: 279769
+
+Bank Of America's locality: charlotte, north carolina, united states
+
+Bank Of America's address:
+
+Bank Of America's country: united states
+    - Bank of America is headquartered in Charlotte, 100 N Tryon St, United States, and has 59 office locations.
+    - United States:
+        + Charlotte: 100 N Tryon St 
+        + Chicago: 135 S LaSalle St
+        + Miami: 701 Brickell Avenue
+        + New York: One Bryant Park
+        + San Francisco: 315 Montgomery St
+    - Argentina: 
+        + Buenos Aires:	Paseo Carlos Della Paolera 265, piso 11
+    - Autralia: 
+        + Melbourne: L19/120 Collins St
+        + Sydney: L34 Governor Phillip Tower 1 Farrer Place
+    - Belgium:
+        + Brussel: Square de Meeûs 38-40
+    - Brazil:
+        + Sao Paulo: Av. Brigadeiro Faria Lima, 3400, 12th Floor
+
+Bank Of America's hotline:
+    - Customer Service (General Inquiries): 1 (800) 432-1000 (24/7)
+    - For Online Banking Support: 1 (800) 933-6262 (24/7)
+    - International Collect Calls: 1 (315) 724-4022
+    - Credit Card Customer Service: 1 (800) 732-9194
+    - Lost or Stolen Card: 1 (800) 732-9194
+    
+Bank Of America's linkedin url: linkedin.com/company/bank-of-america

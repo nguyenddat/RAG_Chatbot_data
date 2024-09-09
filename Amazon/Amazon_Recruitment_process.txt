@@ -1,0 +1,44 @@
+Amazon's salary:
+    - Indeed:
+        - Order Fille yearly:
+            Low: $16,000
+            Average: $33,337
+            High: $51,000
+
+        - Vice Presiden yearly:
+            Low: $16,000
+            Average: $33,337
+            High: $51,000
+
+        - Director yearly:
+            Low: $94,000
+            Average: $218,676
+            High: $394,000
+
+        - Warehouse Worker hourly:
+            Low: $8.90
+            Average: $17.62
+            High:  $26.75
+
+        - Packer hourly :
+            Low: $8.80
+            Average: $17.51
+            High: $26.45
+
+        - Store Shopper hourly:
+            Low: $8.25
+            Average: $16.49
+            High: $24.85
+
+        - Software Engineer yearly:
+            Low: $61,000
+            Average: $134,814
+            High: $236,000
+
+        - Senior Software Engineer yearly:
+            Low: $88,000
+            Average: $175,018
+            High: $281,000
+
+Amazon's request for proposal:
+Amazon's process and time:

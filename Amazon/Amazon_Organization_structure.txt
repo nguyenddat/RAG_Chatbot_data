@@ -1,0 +1,23 @@
+Amazon's leaders:
+    - Officers
+        - Jeffrey P.Bezos: Executive Chair
+        - Andy Jassy: President and Chief executive Officer
+        - Brian T.Olsavsky: Senior vice president and chief financial Officer
+        - Matt Garman: Chief executive officer, amazon web services
+        - Douglas J.Herrington: Chief executive officer, Worldwide amazon stores
+        - Shelley L.Reynolds: Vice president, Worldwide controller
+        - David A.Zapolsky: Senior vice president, Global public policy and general Counsel
+
+    - Directors:
+        - Jeffrey P.Bezos: Executive Chair
+        - Andy Jassy: President and Chief executive Officer
+        - Keith B.Alexander: Former CEO, president and chair of ironNet, Inc
+        - Edith W.Cooper: Co-Founder of Medley and former EVP of Goldman Sachs
+        - Jamie S.Gorelick: Partner with Wilmer Cutler Pickering Hale and Dorr LLP
+        - Daniel P.Huttenlocher: Dean of MIT schwarzman college of computing
+        - Andrew Y.Ng: Managing general partner, AI fund LP, Founder, Deeplearning.AI LLC and Landing AI, Inc, Chairman and Co-founder, Coursera, Inc
+        - Indra K.Nooyi: former chair and CEO of Pepsico, inc
+        - Jonathan J.Rubinstein: Former Co-CEO of Bridgewater Associates, LP
+        - Brad D.Smith: President of Marshall University
+        - Patricia Q.Stonesifer: Former president and CEO of Martha's table
+        - Wendell P.Weeks: Chairman and CEO of Corning Incorporated

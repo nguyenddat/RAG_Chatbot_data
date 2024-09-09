@@ -1,0 +1,19 @@
+Hewlett-Packard's key values:
+    - Our Corporate Objectives Customer loyalty. We earn customer respect and loyalty by consistently providing the highest quality and value. 
+        - Profit
+        - Growth
+        - Market leadership
+        - Commitment to employees
+        - Leadership capability
+        - Global citizenship.
+
+Hewlett-Packard's community significance:
+    - Advancing healthcare  
+        - HPE helps scientists and researchers worldwide gain access to advanced high-performance computing (HPC) and artificial 
+intelligence (AI) technologies to support their research efforts.
+    - Community resiliency
+        - HPE supports individuals and communities across the globe to effectively prepare for and recover from disruptions such as the impacts of climate change or COVID-19.
+    - DEI & human rights
+        - Respecting human rights is a core value at HPE, and we believe that diverse perspectives, ideas, and experiences fuel innovation and drive transformational change across industries. Our programs span our entire value chain to create a more inclusive society and mitigate salient risks, with aspirational targets related to workforce representation, supplier spend, and human rights.  Beyond our walls, we encourage more women and underrepresented groups to thrive in a digital economy—from inspiring a rising generation to pursue careers in STEM to supporting technology-based non-profits with a social mission.
+
+Hewlett-Packard's development orientation:

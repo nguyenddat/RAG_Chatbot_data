@@ -1,0 +1,33 @@
+Ibm's salary:
+    - Software Engineer yearly:
+        - Low: $43,000
+        - Average: $117,104
+        - High: $225,000
+
+    - Partner yearly:
+        - Low: $100,000
+        - Average: $268,332
+        - High: $515,000
+
+    - Application Developer yearly:
+        - Low: $17,000
+        - Average: $55,250
+        - High: $114,000
+
+    - Software Architect yearly:
+        - Low: $83,000
+        - Average: $169,273
+        - High: $284,000
+
+    - Technical Consultant yearly:
+        - Low: $21,000
+        - Average: $74,499
+        - High: $160,000
+
+    - Business Analyst yearly:
+        - Low: $28,000
+        - Average: $86,241
+        - High: $176,000
+
+Ibm's request for proposal:
+Ibm's process and time:

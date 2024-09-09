@@ -1,0 +1,52 @@
+Infosys's interviewer:
+Infosys's highly regarded skills experience:
+Infosys's JDs opening:
+    - SAP Order to Cash Business Systems Analyst
+        - Apply link: https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-189739
+
+    - Performance TestingLoad Runner/Jmeter/ Neoload - IHLCP:
+        - Apply link: https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-188845
+    
+    - Mobile Testing, API Automation - IHLCP:
+        - Apply link: https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-188849
+
+Infosys's company's reviews:
+    - Glassdoor:
+        + Overall: 3.7/5
+        + Recommended to a friend: 69%
+        + Appoved by CEO: 78%
+        + Comp n benefits: 2.9/5
+        + Career opportunities: 3.6/5
+        + Culture n values: 3.8/5
+        + Senior management: 3.3/5
+        + Work/ Life balance: 3.6/5
+        + Diversity n inclusion: 3.9/5
+
+        + Pros:
+            - "Work life balance is good with work from home options few times a month even before Covid times" (in 7852 reviews)
+            - "Work culture and their process is was good where employees will not have any worries." (in 5566 reviews)
+            - "Good training and we learn from starting to end about the process that we gonna do." (in 4457 reviews)
+            - "Good campuses if in case you never got a college or school with a good campus" (in 3979 reviews)
+            - "The work environment is good if you are OK with the on site and offshore model." (in 2755 reviews)
+        
+        + Cons:
+            - "Less hike and low salary but still on par with other rival service based companies." (in 10740 reviews)
+            - "No salary hikes and reason behind is your current salary is more as compare to others." (in 3119 reviews)
+            - "Less pay and you have to be very lucky to get into pure software development projects" (in 2291 reviews)
+            - "Poor management and retaining for resources." (in 2190 reviews)
+            - "You could be an awesome programmer but you might just end up being a really bad manager" (in 1437 reviews)
+
+    - Indeed: 
+        + Overall: 3.8/5
+        + Work/ Life balance: 3.7/5
+        + Comp n benefits: 3.1/5
+        + Job security n Advancement: 3.9/5
+        + Management: 3.5/5
+        + Culture: 3.8/5
+
+        + Based on 16287 reviews:
+            - 4.5k: 5/5
+            - 6.7k: 4/5
+            - 3.6k: 3/5
+            - 815: 2/5
+            - 676: 1/5

@@ -1,0 +1,48 @@
+Capgemini's salary:
+    - Business Systems Analyst yearly:
+        - Low: $42,000
+        - Average: $84,615
+        - High: $129,000
+
+    - Software Architect yearly:
+        - Low: $79,000
+        - Average: $155,826
+        - High: $255,000
+
+    - Senior Manager yearly:
+        - Low: $77,000
+        - Average: $153,922
+        - High: $238,000
+
+    - Business Analyst yearly:
+        - Low: $38,000
+        - Average: $81,667
+        - High: $141,000
+
+    - Senior Data Analyst yearly:
+        - Low: $41,000
+        - Average: $81,767
+        - High: $124,000
+
+    - Data Analyst yearly:
+        - Low: $47,000
+        - Average: $95,190
+        - High: $144,000
+
+    - Senior Programmer yearly:
+        - Low: $42,000
+        - Average: $83,271
+        - High: $134,000
+
+    - Programmer yearly:
+        - Low: $36,000
+        - Average: $71,902
+        - High: $109,000
+
+    - Senior Software Engineer yearly:
+        - Low: $38,000
+        - Average: $77,022
+        - High: $117,000
+
+Capgemini's request for proposal:
+Capgemini's process and time:

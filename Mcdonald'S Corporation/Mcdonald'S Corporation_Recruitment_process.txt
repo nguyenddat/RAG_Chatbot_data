@@ -1,0 +1,33 @@
+Mcdonald'S Corporation's salary:
+    - Crew Member hourly:
+        - Low: $7.25
+        - Average: $13.01
+        - High: $21.80
+
+    - Senior Manager yearly:
+        - Low: $58,000
+        - Average: $148,966
+        - High: $282,000
+
+    - Cook hourly:
+        - Low: $7.25
+        - Average: $14.33
+        - High: $26.05
+
+    - Line Cook hourly:
+        - Low: $7.25
+        - Average: $12.87
+        - High: $35.80
+
+    - General Manager yearly:
+        - Low: $25,000
+        - Average: $54,186
+        - High: $93,000
+
+    - Manager yearly:
+        - Low: $14,000
+        - Average: $52,304
+        - High: $130,000
+
+Mcdonald'S Corporation's request for proposal:
+Mcdonald'S Corporation's process and time:

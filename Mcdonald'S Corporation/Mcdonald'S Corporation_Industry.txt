@@ -1,0 +1,89 @@
+Mcdonald'S Corporation's type of product:
+    - Burgers & Sandwiches:
+        - Beef Burgers: Big Mac, Quarter Pounder, Double Cheeseburger, McDouble.
+        - Chicken Sandwiches: McChicken, Spicy McChicken, McChicken Deluxe, Crispy Chicken Sandwich.
+        - Fish Sandwiches: Filet-O-Fish.
+    - Breakfast:
+        - Sandwiches: Egg McMuffin, Sausage McMuffin, Bacon, Egg & Cheese Biscuit, Sausage Burrito.
+        - Platters: Big Breakfast with Hotcakes.
+        - Sides: Hash Browns, Fruit & Maple Oatmeal.
+    - Chicken & Fish:
+        - Chicken Nuggets: McNuggets with various dipping sauces.
+        - Chicken Tenders: Buttermilk Crispy Tenders.
+    - Salads & Sides:
+        - Salads: Caesar Salad, Side Salad.
+        - Sides: Fries, Apple Slices, Mozzarella Sticks.
+    - Desserts & Shakes:
+        - Desserts: Apple Pie, McFlurry, Sundaes.
+        - Shakes: Vanilla, Chocolate, Strawberry Milkshakes.
+    - Beverages:
+        - Soft Drinks: Coke, Diet Coke, Sprite, Fanta.
+        - Coffee & Tea: McCafé Coffee, Iced Coffee, Frappé, Hot Chocolate.
+        - Other: Milk, Bottled Water, Orange Juice.
+    - Happy Meal (For Kids):
+        - Includes a smaller portion of a main item (like a burger or nuggets), a side (fries or apple slices), a drink, and a toy.
+        - McCafé:
+        - Coffee & Espresso Drinks: Latte, Cappuccino, Americano, Mocha.
+        - Bakery Items: Muffins, Cookies, Croissants.
+
+Mcdonald'S Corporation's industry: restaurants
+
+Mcdonald'S Corporation's reason for industry:
+
+Mcdonald'S Corporation's potential customer:
+    - Children, learners, families, and businessmen are all targets for their products. McDonald's targets these market sectors because of their enormous size, as well as the projected growth rates. These categories are known for having extremely high-profit margins.
+
+Mcdonald'S Corporation's success projects:
+    - Big Mac
+        - Introduction: The Big Mac was introduced in 1967 by Jim Delligatti, a McDonald's franchisee in Pittsburgh.
+        - Success: The Big Mac became an instant hit and is now one of McDonald’s most iconic products worldwide.
+        - Statistics:
+            - As of 2022, McDonald's sells over 550 million Big Macs annually worldwide, equating to about 17 every second.
+            The Big Mac Index, created by The Economist in 1986, uses the price of a Big Mac to measure purchasing power parity (PPP) between currencies, highlighting its global reach and significance.
+            - Evidence of Success: The Big Mac is available in over 100 countries and is a staple of McDonald's menus globally.
+    - Happy Meal
+        - Introduction: The Happy Meal was launched in 1979, aimed at children and designed as a complete meal with a toy.
+        - Success: It quickly became a major driver of sales, appealing to both children and parents, and is credited with helping McDonald's become a family-friendly brand.
+        - Statistics:
+            - McDonald's sells over 100 million Happy Meals annually in the U.S. alone.
+            - The inclusion of a toy with every meal has made the Happy Meal a major force in the toy industry, with McDonald's being one of the largest toy distributors in the world.
+            - Evidence of Success: The Happy Meal has expanded into numerous global markets and has been a mainstay in McDonald's marketing strategies for decades.
+    - McCafé
+        - Introduction: McCafé was first introduced in Melbourne, Australia, in 1993, before expanding globally in the early 2000s.
+        - Success: McCafé has become a significant segment of McDonald's business, capitalizing on the growing coffee culture.
+        - Statistics:
+            - By 2019, McCafé had generated over $4 billion in annual sales in the U.S. alone.
+            - McCafé is available in over 20,000 locations worldwide, making it one of the largest coffee brands globally.
+            - Evidence of Success: McCafé's success has led to the introduction of standalone McCafé outlets in some regions, and it has helped McDonald's compete with established coffee chains like Starbucks.
+
+
+Mcdonald'S Corporation's unique projects:
+    - McDonald's Next (Hong Kong)
+        - Introduction: McDonald's Next is a concept restaurant that was first launched in Hong Kong in December 2015. The idea was to offer a more upscale, modern dining experience.
+        - Unique Features:
+            - Customizable Gourmet Menu: Customers can create their own gourmet salads, burgers, and desserts using a wide range of fresh ingredients.
+            - Futuristic Design: The restaurant features sleek, minimalist decor with digital ordering kiosks, wireless charging stations, and even table service—an uncommon feature for McDonald's.
+            - Open Kitchen: The open kitchen allows customers to see their food being prepared, emphasizing transparency and quality.
+            Significance: McDonald's Next represents the brand's attempt to reposition itself as a premium dining option in urban areas, appealing to a more health-conscious and tech-savvy demographic.
+
+    - McVeggie & McAloo Tikki (India)
+        - Introduction: McDonald's introduced the McVeggie and McAloo Tikki burgers in India as part of its strategy to cater to local tastes and cultural preferences, with the first McDonald's restaurant in India opening in 1996.
+        - Unique Features:
+            - Vegetarian Options: Given the significant vegetarian population in India, these burgers are made with vegetable patties. The McAloo Tikki, in particular, is made with a spiced potato and pea patty, tailored to Indian flavors.
+            - Cultural Adaptation: These products are specifically designed to respect religious practices and dietary restrictions, such as the avoidance of beef and pork.
+        - Significance: McDonald's success in India is largely attributed to these localized menu items, which have become some of the best-selling products in the region. The McAloo Tikki burger has even been exported to other markets with significant Indian populations.
+
+
+Mcdonald'S Corporation's competitors:
+    - Burger King
+    - Wendy’s
+    - KFC (Kentucky Fried Chicken)
+    - Subway
+    - Taco Bell
+    - Starbucks
+    - Domino’s Pizza
+    - Chipotle Mexican Grill
+    - Dunkin'
+    - Five Guys
+
+Mcdonald'S Corporation's future moves:

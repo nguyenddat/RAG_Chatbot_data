@@ -1,0 +1,75 @@
+Ibm's leaders:
+    - Arvind Krishna
+        - Chairman and Chief Executive Officer
+    - Haynes Cooney
+        - Research Director, IBM Institute for Business Value
+    - Rob Thomas
+        - Senior Vice President, Software and Chief Commercial Officer
+    - Sebastian Krause
+        - Senior Vice President and Chief Revenue Officer
+    - Kelly C. Chambliss
+        - Senior Vice President and Chief Operating Officer, IBM Consulting
+    - James J. Kavanaugh
+        - Senior Vice President and Chief Financial Officer
+    - Jonathan H. Adashek
+        - Senior Vice President, Marketing and Communications
+    - Jennifer Knecht
+        - Vice President, Client Engagement
+    - Nickle LaMoreaux
+        - Senior Vice President and Chief Human Resources Officer
+    - Michelle H. Browdy
+        - Senior Vice President, Legal and Regulatory Affairs, and General Counsel
+    - Christina Montgomery
+        - Vice President and Chief Privacy & Trust Officer
+    - Ajay Royyuru
+        - Chief Science Officer, Healthcare & Life Sciences Research
+    - Ric Lewis
+        - Senior Vice President, Infrastructure
+    - Terry Halvorsen
+        - Vice President, Federal Client Development
+    - Michael Libutti
+        - Senior Partner & Vice President
+    - Dinesh Nirmal
+        - Senior Vice President of Products, IBM Software
+    - Frank Sedlarcik
+        - Vice President, Secretary
+    - Paul Papas
+        - Senior Vice President, IBM Consulting, Americas
+    - Scott Robertson
+        - Senior Partner and Vice President of Hybrid Cloud Services Sales
+    - Alexander F. Stern
+        - Senior Vice President, Strategy and M&A
+    - Joanne Wright
+        - Senior Vice President, Transformation and Operations
+    - Dar�o Gil
+        - Senior Vice President and Director, IBM Research
+    - Becky Lutz
+        - Senior Partner and Vice President of Platform Services Leader, Americas
+    - John Granger
+        - Senior Vice President, IBM Consulting
+    - Glenn Finch
+        - Global Managing Partner, Cognitive & Analytics
+    - Gary D. Cohn
+        - Vice Chairman
+    - David N. Farr
+        - Director
+    - Alex Gorsky
+        - Director
+    - Peter R. Voser
+        - Director
+    - Andrew N. Liveris
+        - Director
+    - Alfred W. Zollar
+        - Director
+    - Michelle Howard
+        - Director
+    - F. William McNabb III
+        - Director
+    - Martha E. Pollack
+        - Director
+    - Frederick H. Waddell
+        - Director
+    - Thomas Buberl
+        - Director
+    - Anne E. Robinson
+        - Senior Vice President and Chief Legal Officer

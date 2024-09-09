@@ -1,0 +1,33 @@
+Amazon's domain: amazon.com
+
+Amazon's size range: 10001+
+
+Amazon's current employee estimate: 93247
+
+Amazon's total employee estimate: 161866
+
+Amazon's locality: seattle, washington, united states
+
+Amazon's address:
+    - Amazon is headquartered in Seattle, 410 Terry Ave N, United States, and has 285 office locations.
+    - United States	
+        + Seattle: 410 Terry Ave N HQ
+        + Anchorage:	5900 Old Seward Hwy
+        + Arlington:	1800 S Bell St
+        + Atlanta:	3333 Piedmont Rd NE
+        + Austin:	11501 Alterra Pkwy
+        + Baltimore:	2010 Broening Hwy
+        + Bellevue:	425 106th Ave NE
+        + Boston:	55 Pier 4 Blvd.
+        + Boulder:	1900 15th St
+        + Breinigsville:	705 Boulder Dr
+        + etc...
+
+Amazon's country: united states
+
+Amazon's hotline:
+    - Amazon's customer service: 1-888-280-4331
+    - Amazon Corporate Headquarters: 1-206-266-1000
+    - AWS Support Phone: 1-866-216-1072 (for technical support)
+
+Amazon's linkedin url: linkedin.com/company/amazon

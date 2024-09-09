@@ -1,0 +1,45 @@
+Microsoft's key values:
+    - Innovation
+        - We believe technology can and should be a force for good and that meaningful innovation can and will contribute to a brighter world in big and small ways.
+
+    - Diversity and inclusion
+        - We thrive on diverse voices. We engage our employees’ and customers’ experiences, strengths, and different points of view to inform, challenge, and stretch our thinking. This is how we innovate.
+
+    - Corporate Social Responsibility
+        - We believe technology is a powerful force for good and are working to foster a sustainable future where everyone has access to the benefits and opportunities created by technology.
+
+    - AI
+        - We believe that, when designed with people at the center, AI can extend your capabilities, free you up for more creative and strategic endeavors, and help you or your organization achieve more.
+
+    - Trustworthy Computing
+        - Check out how we deliver secure, private, and reliable computing experiences based on sound business practices.
+
+    - Responding to COVID-19 together
+        - As the world responds to the outbreak of COVID-19, we’re working to do our part by ensuring the safety of our employees, striving to protect the health and well-being of the communities in which we operate, and providing technology, tips, and resources to our customers.
+
+Microsoft's community significance:
+    - Education and Digital Skills
+        - Microsoft Philanthropies: Provides grants and support for education initiatives, including digital literacy and skills training programs.
+        - Microsoft Learn: Offers free online learning resources and courses to help individuals develop technical skills.
+
+    - Environmental Sustainability
+        - Carbon Neutrality: Microsoft has committed to being carbon negative by 2030, meaning it will remove more carbon than it emits.
+        - Sustainable Operations: Investment in renewable energy, reduction of water usage, and initiatives to achieve zero waste in its data centers.
+
+    - Accessibility and Inclusion
+        - AI for Accessibility: Supports projects that use artificial intelligence to enhance accessibility for people with disabilities.
+        - Inclusive Hiring: Focuses on increasing the diversity of its workforce and supporting inclusive hiring practices.
+
+    - Community Support and Grants
+        - Grants and Donations: Provides financial support to non-profit organizations and community groups through various grant programs.
+        - Employee Giving Programs: Encourages employees to contribute to causes they care about through matching gifts and volunteer programs.
+
+    - Health and Well-being
+        - Microsoft Healthcare: Collaborates with healthcare providers and researchers to improve healthcare outcomes using technology.
+        - COVID-19 Response: Provided support for remote work solutions, virtual learning, and healthcare initiatives during the pandemic.
+
+    - Global Impact and Partnerships
+        - Partnerships with NGOs: Works with organizations such as the United Nations to address global challenges and support humanitarian efforts.
+        - Microsoft Airband Initiative: Aims to expand internet access to underserved and rural communities around the world.
+
+Microsoft's development orientation:

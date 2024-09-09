@@ -1,0 +1,4 @@
+Google's year founded: 1998.0
+
+Google's reason for establishment:
+    - Towards the end of the 1990s, two doctoral students at Stanford University, Larry Page and Sergey Brin, developed a search engine called “Backrub.” Their goal was to improve the accuracy of search results on the Internet, thus revolutionizing online navigation.
